@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Micron filter Cartridge in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Micron filter Cartridge in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Micron Filter Cartridge</title>
     <meta name="description" content="Discover high-quality micron filter cartridges in Bangladesh. Enhance your filtration systems with our reliable and efficient solutions for clean water." />
     <meta name="keywords" content="Discover high-quality micron filter cartridges in Bangladesh. Enhance your filtration systems with our reliable and efficient solutions for clean water.">
     

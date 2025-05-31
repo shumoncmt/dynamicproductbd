@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Micron filter Housing in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Micron filter Housing in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Micron filter Housing</title>
     <meta name="description" content="Discover high-quality micron filter housings in Bangladesh. Our durable solutions ensure optimal filtration for various applications." />
     <meta name="keywords" content="best micron filter housings in Bangladesh. Our products guarantee superior filtration performance for diverse industrial needs.">
     

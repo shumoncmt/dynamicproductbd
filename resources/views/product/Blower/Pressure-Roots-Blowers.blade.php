@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pressure Roots Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Pressure Roots Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Pressure Roots Blower</title>
     <meta name="description" content="Discover high-quality pressure roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords" content="Find top-notch pressure roots blowers in Bangladesh. We offer innovative solutions designed to improve efficiency and reliability in various industries.">
     @include('master.header')

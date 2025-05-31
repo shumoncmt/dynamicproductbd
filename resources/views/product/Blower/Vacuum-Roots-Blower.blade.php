@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Vacuum Roots Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Vacuum Roots Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Vacuum Roots Blower</title>
     <meta name="description" content="High-quality vacuum roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords" content="Find top-notch vacuum roots blowers in Bangladesh. We provide efficient and durable solutions to meet the demands of your industrial operations">
     

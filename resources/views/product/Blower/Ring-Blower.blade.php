@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ring Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Ring Blower in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Ring Blower</title>
     <meta name="description" content="Discover high-quality ring blowers in Bangladesh. Our website offers a comprehensive range of products, specifications, and expert guidance for your needs." />
     <meta name="keywords" content="Find the best ring blowers in Bangladesh with our extensive selection and expert insights."> 
     @include('master.header')
