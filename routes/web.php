@@ -4,6 +4,7 @@ use App\Http\Controllers\ProfileController;
 use App\Http\Controllers\SiteController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SitemapController;
+use Illuminate\Support\Facades\Response;
 
 // Route::get('/', function () {
 //     return view('welcome');
@@ -130,5 +131,13 @@ Route::get('/product/membranium-reverse-osmosis-membrane', [SiteController::clas
 Route::get('/product/hydranautics-ro-membranes', [SiteController::class, 'hydramembraneros'])->name('hydramembraneros');
 
 
-//Single Product End
+//Single Product Enduse Illuminate\Support\Facades\Route;
 
+
+Route::get('/robots.txt', function () {
+    $lines = [
+        'User-agent: *',
+        app()->environment('production') ? 'Disallow:' : 'Disallow: /',
+    ];
+    return Response::make(implode("\n", $lines), 200, ['Content-Type' => 'text/plain']);
+});
