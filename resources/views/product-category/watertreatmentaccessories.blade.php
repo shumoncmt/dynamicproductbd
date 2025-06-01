@@ -12,11 +12,9 @@
         content="water treatment systems with our premium accessories. Browse our selection to find the perfect solutions for effective water purification.">
 
     @include('master.header')
-
 </head>
 
 <body>
-
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
