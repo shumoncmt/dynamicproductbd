@@ -163,36 +163,37 @@
                                             </tr>
                                             <tr>
                                                 <td>Recovery Rate of Single Element</td>
-                                                <td>.4）</td>
+                                                <td>15%</td>
                                             </tr>
 
                                         </tbody>
+                                        <tbody>
+                                            <tr>
+                                                <td rowspan="5">Operation Limits & Conditions</td>
+                                                <td>Testing Pressure</td>
+                                                <td>150 psi (1.03MPa)</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Testing Solution Temperature</td>
+                                                <td>25 ℃</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Concentration of Testing Solution (NaCl)</td>
+                                                <td>1500ppm</td>
+                                            </tr>
+                                            <tr>
+                                                <td>pH value of Testing Solution</td>
+                                                <td>7.5</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Recovery Rate of Single Element</td>
+                                                <td>15%</td>
+                                            </tr>
+
+                                        </tbody>
+
                                     </table>
                                 </div>
-                                <div class="col-md-3">
-                                    <p></p>
-                                    <p>150 psi (1.03MPa):</p>
-                                    <p>Concentration of Testing Solution (NaCl):</p>
-                                    <p>pH value of Testing Solution:</p>
-                                    <p>Recovery Rate of Single Element:</p>
-                                </div>
-                                <div class="col-md-3">
-                                    <p>150 psi (1.03MPa)</p>
-                                    <p>25 ℃</p>
-                                    <p>1500ppm</p>
-                                    <p>7.5</p>
-                                    <p>15%</p>
-                                    <p></p>
-                                </div>
-                                <div class="col-md-3">
-                                    <h5>Testing Conditions</h5>
-
-
-                                </div>
-
-
-
-
                                 <div class="table-responsive">
                                     <table class="table table-bordered border-primary">
                                         <thead>
