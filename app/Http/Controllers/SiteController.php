@@ -235,7 +235,7 @@ function RoAntiscalant(){
 }
 
 function microdynereverseosmosismembrane(){
-    return view('product.membrane.microdyn-reverse-osmosis-membrane');
+    return view('product.membrane.dynamic-reverse-osmosis-membrane');
 }
 function membraniumreverseosmosismembrane(){
     return view('product.membrane.membranium-reverse-osmosis-membrane');

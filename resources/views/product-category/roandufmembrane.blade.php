@@ -37,7 +37,7 @@
                                 src="{{ asset('img/product/membrane/8inch-water-spiral-module.jpg')}}" alt=""
                                 class="img-responsive zoom_img_effect"></a><a
                             href={{Route('microdynereverseosmosismembrane')}}>
-                            <h4>Microdyn Reverse Osmosis Membrane</h4>
+                            <h4>Dynamic Reverse Osmosis Membrane</h4>
                         </a>
                         <p style="text-align:justify">Reverse osmosis(RO) is a membrane filtration technology that
                             effectively removes ions such as sodium and chloride, as well organic molecules, including

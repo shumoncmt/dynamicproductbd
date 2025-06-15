@@ -58,8 +58,7 @@
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
-                            href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf">
-                            Brochure</a></button>
+                            href="/img/product/membrane/DEM21-4040ULP-D.pdf"> Brochure</a></button>
 
                 </div>
             </div>
@@ -101,7 +100,6 @@
                                         underground water, tap water and municipal water, LP series membrane elements
                                         are mainly applicable to such as pure water, boiler water replenishment,
                                         foodstuff processing, and pharmaceutical production.</p>
-
                                     <h6>APPLICATIONS:</h6>
                                     <li> Municipal drinking water</li>
                                     <li>Semiconductor industry</li>
@@ -112,6 +110,40 @@
                                     <li>High-Purity industrial applications</li>
                                     <li>Municipal wastewater reclamation</li>
                                 </div>
+                                <h6>Notice:</h6>
+                                <ol>
+                                    <li>All data and information provided in this manual have been obtained from
+                                        long-term experiment by Dynamic. We confirm the effective and accuracy of the
+                                        data. Dynamic assumes no liability for any aftermath caused by user’s failure in
+                                        abiding by the conditions specified in this manual in use or maintenance of
+                                        membrane products. It is strongly recommended that the user shall strictly abide
+                                        the designed use and maintenance requirements and keep relevant records.</li>
+                                    <li>The permeate value listed in the table is the average value. The permeate flow
+                                        of single membrane element is tolerance not exceeding ±15% of the nominal value.
+                                    </li>
+                                    <li>All wet-type membrane elements have been strictly tested before leaving the
+                                        factory, and have been treated with 1.0% sodium hydrogen sulfite (10% glycerin
+                                        antifreeze required in winter) for storage purpose, then sealed with plastic bag
+                                        in vacuum, and further packed in carton boxes.</li>
+                                    <li>The membrane used should remain wet after being used; In long term suspension,
+                                        to prevent the breeding of microbes, soak the membrane elements with protective
+                                        solution is highly recommended, the solution (prepared with RO filtered water)
+                                        containing 1.0% sodium hydrogen sulfite (foodstuff-purpose).</li>
+                                    <li>Operate low pressure flushing for 15-25 minutes of first use, high pressure
+                                        flushing for 60-90 minutes when first use (Permeate volume no less than 50% of
+                                        designed volume). Discard all the permeate and condensed water produced during
+                                        the first one hour after system start-up.</li>
+                                    <li>During storage time and operation period, it is strictly prohibited to added any
+                                        chemical medicament that may be harmful to membrane elements. In case of any
+                                        violation in adding chemical medicament, Dynamic assumes no liability for any
+                                        damages incurred.</li>
+                                    <li>Along with technical development and product renovation, all information will be
+                                        subject to modification without prior notification. Please keep notice the
+                                        website of Dynamic for any updates
+                                        of the product.</li>
+
+
+                                </ol>
                             </div>
                         </div>
                     </div>
@@ -140,6 +172,7 @@
                                     </tbody>
                                 </table>
                             </div>
+                            <br>
                             <div class="row">
                                 <div class="table-responsive">
                                     <table class="table table-bordered border-primary">
@@ -169,25 +202,43 @@
                                         </tbody>
                                         <tbody>
                                             <tr>
-                                                <td rowspan="5">Operation Limits & Conditions</td>
-                                                <td>Testing Pressure</td>
-                                                <td>150 psi (1.03MPa)</td>
+                                                <td rowspan="9">Operation Limits & Conditions</td>
+                                                <td>Max. Working Pressure</td>
+                                                <td>600psi（4.14MPa） </td>
                                             </tr>
                                             <tr>
-                                                <td>Testing Solution Temperature</td>
-                                                <td>25 ℃</td>
+                                                <td>Max. Volume of Feed water</td>
+                                                <td>16gpm（3.6 m3/h）</td>
                                             </tr>
                                             <tr>
-                                                <td>Concentration of Testing Solution (NaCl)</td>
-                                                <td>1500ppm</td>
+                                                <td>Max. Temperature of Feed water</td>
+                                                <td>45℃</td>
                                             </tr>
                                             <tr>
-                                                <td>pH value of Testing Solution</td>
-                                                <td>7.5</td>
+                                                <td>Max. Feed water SDI15</td>
+                                                <td>5</td>
                                             </tr>
                                             <tr>
-                                                <td>Recovery Rate of Single Element</td>
-                                                <td>15%</td>
+                                                <td>pH Range of Feed water during Continuous Operation</td>
+                                                <td>3～10</td>
+                                            </tr>
+                                            <tr>
+                                                <td>pH Range of Feed Water during Chemical Cleaning</td>
+                                                <td>2～12</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Residual Chlorine Concentration of Feed Water</td>
+                                                <td>＜0.1ppm</td>
+                                            </tr>
+                                            <tr>
+                                                <td>Max. Pressure Drop of Single Membrane Element</td>
+                                                <td>15psi（0.1MPa）
+                                                </td>
+                                            </tr>
+                                            <tr>
+                                                <td>Max. Pressure Drop of Single Pressure Vessel with Six RO Membranes
+                                                </td>
+                                                <td>50psi（0.34MPa）</td>
                                             </tr>
 
                                         </tbody>
