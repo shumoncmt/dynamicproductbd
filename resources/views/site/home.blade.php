@@ -745,7 +745,6 @@
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                 <p class="text-uppercase text-secondary fs-5 mb-0"></p>
                 <h3 class="hs"> <span class="underline ">OUR CLIENTS REVIEWS.</span> </h3>
-
             </div>
             <div class="owl-carousel testimonial-carousel wow fadeInUp" data-wow-delay="0.4s">
                 <div class="testimonial-item bg-light p-4">
