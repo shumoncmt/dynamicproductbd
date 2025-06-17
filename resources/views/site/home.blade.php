@@ -170,7 +170,6 @@
                 </div>
             </div>
             <div class="row">
-
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                     <div class="item"><a href={{Route('filtrationmedia')}} class="post-image view image_hover"><img
                                 src="img/catagory/dynamci-filtration-media.jpg" alt=""
@@ -208,9 +207,6 @@
         </div>
         </div>
     </section>
-
-
-
     <!-- Features Start -->
     <div class="container-fluid feature bg-light py-5">
         <div class="container py-5">
@@ -519,8 +515,6 @@
                     <img src="img/client/goldsandsgroup.jpg" alt="">
                 </div>
             </div>
-
-
         </div>
     </section>
 
