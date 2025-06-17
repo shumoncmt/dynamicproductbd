@@ -526,7 +526,7 @@
 
     <!-- Our Client End -->
     <!-- Our Sister Company start -->
-    <div class="container-fluid team py-5">
+    <!-- <div class="container-fluid team py-5">
         <div class="container py-5">
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
                 <h2 class="hs"> <span class="underline ">Our Concerns </span> </h2>
@@ -546,7 +546,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
     <!-- Our sister company end -->
 
     <!-- Projects Start -->
@@ -760,8 +760,6 @@
                         </div>
                         <div class="d-flex align-items-center flex-nowrap">
                             <div class="me-4">
-                                <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100"
-                                    style="width: 100px; height: 100px;" alt="">
                             </div>
                             <div class="d-block">
                                 <h4 class="text-dark">Akij Bashir</h4>
@@ -789,8 +787,6 @@
                         </div>
                         <div class="d-flex align-items-center flex-nowrap">
                             <div class="me-4">
-                                <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100"
-                                    style="width: 100px; height: 100px;" alt="">
                             </div>
                             <div class="d-block">
                                 <h4 class="text-dark">Square Group</h4>
@@ -818,8 +814,6 @@
                         </div>
                         <div class="d-flex align-items-center flex-nowrap">
                             <div class="me-4">
-                                <img src="https://avatar.iran.liara.run/public" class="img-fluid w-100"
-                                    style="width: 100px; height: 100px;" alt="">
                             </div>
                             <div class="d-block">
                                 <h4 class="text-dark">Acme Group</h4>
