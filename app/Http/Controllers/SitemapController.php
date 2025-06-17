@@ -403,18 +403,18 @@ class SitemapController extends Controller
 
     private function generateSitemap($urls)
     {
-        $xml = new \SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?><urlset/>');
-        $xml->addAttribute('xmlns', 'http://www.sitemaps.org/schemas/sitemap/0.9');
+        $xml = new \SimpleXMLElement('<?xml version="1.0" encoding="UTF-8"?>
+<urlset />');
+$xml->addAttribute('xmlns', 'http://www.sitemaps.org/schemas/sitemap/0.9');
 
-        foreach ($urls as $url) {
-            $urlTag = $xml->addChild('url');
-            $urlTag->addChild('loc', $url['loc']);
-            $urlTag->addChild('lastmod', $url['lastmod']);
-            $urlTag->addChild('changefreq', $url['changefreq']);
-            $urlTag->addChild('priority', $url['priority']);
-        }
-
-        return $xml->asXML();
-    }
+foreach ($urls as $url) {
+$urlTag = $xml->addChild('url');
+$urlTag->addChild('loc', $url['loc']);
+$urlTag->addChild('lastmod', $url['lastmod']);
+$urlTag->addChild('changefreq', $url['changefreq']);
+$urlTag->addChild('priority', $url['priority']);
 }
 
+return $xml->asXML();
+}
+}
