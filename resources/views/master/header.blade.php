@@ -91,7 +91,7 @@
             <span class="fa fa-bars"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
-            <div class="navbar-nav ms-auto pt-2 pt-lg-0 ">
+            <div class="navbar-nav mx-auto pt-2 pt-lg-0 ">
                 <a href={{Route('home')}} class="nav-item nav-link">Home</a>
                 <div class="nav-item dropdown ">
                     <a href={{Route('about')}} class="nav-link text-dark">About</a>
