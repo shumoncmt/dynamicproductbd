@@ -1,6 +1,5 @@
 User-agent: AhrefsBot
-Disallow: /
-
+Disallow: 
 User-agent: *
 Disallow:
 
