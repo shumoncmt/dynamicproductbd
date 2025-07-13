@@ -90,47 +90,52 @@ class SiteController extends Controller
         return view ('product-category.all-category');
     }
 
-function blower(){
-    return view ('product-category.blower');
-}
-function diffuser(){
-    return view ('product-category.diffuser');
-}
-function electricmotor(){
-    return view ('product-category.electricmotor');
-}
-function electromageneticflowmeter(){
-    return view ('product-category.electromageneticflowmeter');
-}
-function frpvessel(){
-    return view ('product-category.frpvessel');
-}
-function roandufmembrane(){
-    return view ('product-category.roandufmembrane');
-}
-function watertreatmentaccessories(){
-    return view ('product-category.watertreatmentaccessories');
-}
-function watertreatmentchemicalsandmedia(){
-    return view ('product-category.watertreatmentchemicalsandmedia');
-}
+        function blower(){
+            return view ('product-category.blower');
+        }
+        function diffuser(){
+            return view ('product-category.diffuser');
+        }
+        function electricmotor(){
+            return view ('product-category.electricmotor');
+        }
+        function electromageneticflowmeter(){
+            return view ('product-category.electromageneticflowmeter');
+        }
+        function frpvessel(){
+            return view ('product-category.frpvessel');
+        }
+        function roandufmembrane(){
+            return view ('product-category.roandufmembrane');
+        }
+        function watertreatmentaccessories(){
+            return view ('product-category.watertreatmentaccessories');
+        }
+        function watertreatmentchemicalsandmedia(){
+            return view ('product-category.watertreatmentchemicalsandmedia');
+        }
 
-function allproduct(){
-    return view ('product-category.all-product');
-}
+        function allproduct(){
+            return view ('product-category.all-product');
+        }
 
-function allcategory(){
-    return view('product-category.all-category');
-}
-function industrialpump(){
-    return view('product-category.industrialpump');
-}
-function filtrationmedia(){
-    return view('product-category.filtrationmedia');
-}
-function ionexchangeresin(){
-    return view('product-category.ionexchangeresin');
-}
+        function allcategory(){
+            return view('product-category.all-category');
+        }
+        function industrialpump(){
+            return view('product-category.industrialpump');
+        }
+        function filtrationmedia(){
+            return view('product-category.filtrationmedia');
+        }
+        function ionexchangeresin(){
+            return view('product-category.ionexchangeresin');
+        }
+
+        function dosingpump(){
+            return view('product-category.dosing-pump');
+        }
+
 
 // Single Product start
 
@@ -244,6 +249,11 @@ function hydramembraneros(){
     return view('product.membrane.hydranautics-ro-membranes');
 }
 
+
+//Dynamic Dosing Pump
+function dynamicdosingpump(){
+    return view('product.dosing-pump.dynamic-dosing-pump');
+}
 //Single Product End
 
 

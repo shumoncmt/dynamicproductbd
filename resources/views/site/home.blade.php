@@ -204,6 +204,16 @@
                 <h6><a href={{Route('watertreatmentchemicalsandmedia')}}>Read more</a></h6>
             </div>
         </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+            <div class="item"><a href={{Route('dosingpump')}} class="post-image view image_hover"><img src="#" alt=""
+                        class="img-responsive zoom_img_effect"></a><a href={{Route('dosingpump')}}>
+                    <h4>Dynamic Dosing Pump</h4>
+                </a>
+                <p style="text-align:justify">Discover the efficiency of Dynamic Micro Chemical Dosing Pumps! Achieve
+                    precise chemical dosing for industrial applications with advanced technology.</p>
+                <h6><a href={{Route('dosingpump')}}>Read more</a></h6>
+            </div>
+        </div>
         </div>
         </div>
     </section>

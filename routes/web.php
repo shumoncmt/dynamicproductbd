@@ -74,6 +74,7 @@ Route::get('/categories/water-treatment-accessories', [SiteController::class, 'w
 Route::get('/categories/water-treatment-chemicals-and-media', [SiteController::class, 'watertreatmentchemicalsandmedia'])->name('watertreatmentchemicalsandmedia');
 Route::get('/categories/ion-exchange-resin', [SiteController::class, 'ionexchangeresin'])->name('ionexchangeresin');
 Route::get('/categories/filtration-media', [SiteController::class, 'filtrationmedia'])->name('filtrationmedia');
+Route::get('/categories/dosing-pump', [SiteController::class, 'dosingpump'])->name('dosingpump');
 
 
 //Product Category End
@@ -130,6 +131,9 @@ Route::get('/product/dynamic-reverse-osmosis-membrane', [SiteController::class, 
 Route::get('/product/membranium-reverse-osmosis-membrane', [SiteController::class, 'membraniumreverseosmosismembrane'])->name('membraniumreverseosmosismembrane');
 Route::get('/product/hydranautics-ro-membranes', [SiteController::class, 'hydramembraneros'])->name('hydramembraneros');
 
+//Dosing Pump
+
+Route::get('/product/dynamic-dosing-pump', [SiteController::class, 'dynamicdosingpump'])->name('dynamicdosingpump');
 
 //Single Product Enduse Illuminate\Support\Facades\Route;
 
