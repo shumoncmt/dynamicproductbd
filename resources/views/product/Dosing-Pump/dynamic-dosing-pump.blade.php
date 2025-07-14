@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:15px;">
                     <div class="item"><a href={{Route('dynamicdosingpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('img/product/filtration-media/dynamic-anthracite-cti-80')}}" alt=""
+                                src="{{ asset('img/product/dosing/dosing-Pump.jpg')}}" alt=""
                                 class="img-responsive zoom_img_effect"></a><a href={{Route('dynamicdosingpump')}}>
                         </a>
                     </div>

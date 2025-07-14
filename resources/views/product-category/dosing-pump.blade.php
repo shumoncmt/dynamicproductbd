@@ -34,7 +34,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicdosingpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('img/catagory/dynamic-frp-vessel')}}" alt=""
+                                src="{{ asset('img/catagory/dosing/dynamic-dosing-pump.jpg')}}" alt=""
                                 class="img-responsive zoom_img_effect"></a><a href={{Route('dynamicdosingpump')}}>
                             <h4>Dynamic Dosing Pump</h4>
                         </a>

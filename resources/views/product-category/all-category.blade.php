@@ -136,7 +136,8 @@
             </div>
         </div>
         <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('dosingpump')}} class="post-image view image_hover"><img src="#" alt=""
+            <div class="item"><a href={{Route('dosingpump')}} class="post-image view image_hover"><img
+                        src="img/catagory/dosing/dynamic-dosing-pump.jpg" alt=""
                         class="img-responsive zoom_img_effect"></a><a href={{Route('dosingpump')}}>
                     <h4>Dynamic Dosing Pump</h4>
                 </a>
