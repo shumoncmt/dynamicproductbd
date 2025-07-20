@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DPL Series Dynamic pump in Bangladesh - Best industrial electric motor in Bangladesh | DPL Series Dynamic
-        pump</title>
+    <title>DPL Series Dynamic pump in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane
+        and Filtra tion Media in Bangladesh</title>
     <meta name="description"
         content="DPL Series Dynamic Pump in Bangladesh, designed for efficiency and reliability. Explore our range of innovative pumping solutions today." />
     <meta name="keywords"

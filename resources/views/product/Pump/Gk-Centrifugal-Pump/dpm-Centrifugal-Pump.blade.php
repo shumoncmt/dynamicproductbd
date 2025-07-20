@@ -4,8 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DMP Dynamic Centrifugal Pump in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic
-        Centrifugal Pump</title>
+    <title>DMP Dynamic Centrifugal Pump in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
+        Membrane and Filtration Media in Bangladesh</title>
     <meta name="description"
         content="The efficiency and reliability of DMP Centrifugal Pumps. Explore our range of high-performance pumps designed for various industrial applications." />
     <meta name="keywords" content="DMP Centrifugal Pumps offer superior performance and durability.">

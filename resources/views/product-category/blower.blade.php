@@ -4,7 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Blower - Best industrial electric motor in Bangladesh | Dynamic Blower</title>
+    <title>Blower - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
+        Bangladesh | Dynamic Industrial Product</title>
     <meta name="description"
         content="High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs." />
     <meta name="keywords"

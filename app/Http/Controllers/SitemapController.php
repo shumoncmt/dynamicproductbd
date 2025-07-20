@@ -71,90 +71,6 @@ class SitemapController extends Controller
             'priority' => '0.8'
         ];
         $urls[] = [
-            'loc' => URL::to('/project'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/zld'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Deep-Tube-Well'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/about'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Drinking-Water-Treatment-Plant'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/etp'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Membrane-Based-Desalination-Plant'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Mobile-Water-Treatment-Plant'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Pumps-and-Pumping-Systems'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/stp'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Surface-Water-Treatment-Plant'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Ultra-Pure-Water-Treatment-Plant'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/Water-and-Waste-Water-Treatment-Plants'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/wtp'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
             'loc' => URL::to('/categories'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
@@ -162,12 +78,6 @@ class SitemapController extends Controller
         ];
         $urls[] = [
             'loc' => URL::to('/categories/blower'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/categories/diffuser'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
             'priority' => '0.8'
@@ -198,12 +108,6 @@ class SitemapController extends Controller
         ];
         $urls[] = [
             'loc' => URL::to('/categories/ro-and-uf-membrane'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/categories/water-treatment-accessorie'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
             'priority' => '0.8'
@@ -337,24 +241,18 @@ class SitemapController extends Controller
             'priority' => '0.8'
         ];
         $urls[] = [
-            'loc' => URL::to('/product/anthracite'),
+            'loc' => URL::to('/product/dynamic-anthracite'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
             'priority' => '0.8'
         ];
         $urls[] = [
-            'loc' => URL::to('/product/coconut-shell-activated-carbon'),
+            'loc' => URL::to('/product/dynamic-coconut-shell-activated-carbon'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
             'priority' => '0.8'
         ];
-        $urls[] = [
-            'loc' => URL::to('/product/manganese-dioxide'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-
+       
         $urls[] = [
             'loc' => URL::to('/product/biocide'),
             'lastmod' => Carbon::now()->toAtomString(),
@@ -363,12 +261,6 @@ class SitemapController extends Controller
         ];
         $urls[] = [
             'loc' => URL::to('/product/dechlorinator'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
-            'loc' => URL::to('/product/flocculants'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
             'priority' => '0.8'

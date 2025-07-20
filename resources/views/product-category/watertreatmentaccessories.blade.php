@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Water Treatment Accessoriess - Best industrial electric motor in Bangladesh | Dynamic Water Treatment
-        Accessoriess</title>
+    <title>Water Treatment Accessoriess -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
+        Filtration Media in
+        Bangladesh | Dynamic Industrial Product</title>
     <meta name="description"
         content="High-quality water treatment accessories designed to enhance your purification systems. Explore our extensive range for optimal water quality solutions." />
     <meta name="keywords"

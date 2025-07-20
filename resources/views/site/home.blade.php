@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home - Best industrial electric motor in Bangladesh | Dynamic Motor</title>
+    <title>Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in Bangladesh |
+        Dynamic Industrial Product</title>
     <meta name="description"
-        content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water.." />
+        content="Dynamic is a registered brand of Green Genesis Engineering Limited, committed to sourcing top-quality products from the global market while maintaining the highest standards." />
     <meta name="keywords"
-        content="Founded in 2013 Green Genesis Engineering Ltd. is a professional engineering company doing green business and offering water">
+        content="Dynamic is a registered brand of Green Genesis Engineering Limited, committed to sourcing top-quality products from the global market while maintaining the highest standards.">
 
     @include('master.header')
     @include('master.slider')

@@ -4,11 +4,12 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dosing Pump - Best industrial electric motor in Bangladesh | Dynamic Dosing Pump</title>
+    <title>Dosing Pump -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
+        Bangladesh | Dynamic Industrial Product</title>
     <meta name="description"
-        content="High-quality FRP vessels designed for durability and efficiency. Explore our range of products tailored for various industrial applications." />
+        content="Explore dosing pumps for precise fluid control in industrial and commercial applications. Efficient, reliable, and easy to use." />
     <meta name="keywords"
-        content="FRP vessels for your business. Our expertly crafted products offer exceptional durability and are suitable for multiple applications.">
+        content="Explore dosing pumps for precise fluid control in industrial and commercial applications. Efficient, reliable, and easy to use.">
 
     @include('master.header')
 

@@ -4,8 +4,9 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Reverse Osmosis Membrane in Bangladesh - Best industrial electric motor in Bangladesh | Dynamic Motor
-    </title>
+    <title>Dynamic Reverse Osmosis Membrane in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro
+        Membrane and Filtration Media in
+        Bangladesh</title>
     <meta name="description"
         content="Discover high-quality electromagnetic flow meters in Bangladesh. Our advanced solutions ensure accurate flow measurement for various industrial applications." />
     <meta name="keywords"
