@@ -8,9 +8,9 @@
         Bangladesh |
         Dynamic Industrial Product</title>
     <meta name="description"
-        content="Find top industrial electric motors, pumps, blowers, flow meters, RO membranes & filtration media in Bangladesh.." />
+        content="Want to communication with us? Here the Green Genesis Engineering  Limited Contact Information" />
     <meta name="keywords"
-        content="Find top industrial electric motors, pumps, blowers, flow meters, RO membranes & filtration media in Bangladesh.r">
+        content="Want to communication with us? Here the Green Genesis Engineering  Limited Contact Information">
 
     @include('master.header')
     @include('master.slider')
@@ -106,7 +106,7 @@
                         <i class="fa fa-phone-alt fa-2x text-secondary me-4"></i>
                         <div>
                             <h4>Telephone</h4>
-                            <p class="mb-0">+880 1933 302535<br> +880 1716 434 153</p>
+                            <p class="mb-0">+8801898 777647</p>
                         </div>
                     </div>
                 </div>

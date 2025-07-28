@@ -7,10 +7,8 @@
     <title>Team - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
         Bangladesh |
         Dynamic Industrial Product</title>
-    <meta name="description"
-        content="Discover top industrial electric motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh.." />
-    <meta name="keywords"
-        content="Discover top industrial electric motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh.">
+    <meta name="description" content="Green Genesis Engineering Limited All team member work most successfully Work" />
+    <meta name="keywords" content="Green Genesis Engineering Limited All team member work most successfully Work">
 
     @include('master.header')
     @include('master.slider')
@@ -314,7 +312,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
+                <!-- <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
                     <div class="team-item border border-primary p-1">
                         <div class="team-border-style-1"></div>
                         <div class="team-border-style-2"></div>
@@ -339,7 +337,7 @@
                             <p class="mb-0">Manager - HR & Administration</p>
                         </div>
                     </div>
-                </div>
+                </div> -->
                 <div class="col-lg-3  col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
                     <div class="team-item border border-primary p-1">
                         <div class="team-border-style-1"></div>
