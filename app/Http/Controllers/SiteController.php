@@ -136,130 +136,242 @@ class SiteController extends Controller
             return view('product-category.dosing-pump');
         }
 
+          function dynamicsubmersiblepump (){
+            return view('product-category.dynamic-submersible-pump');
+        }
 
-// Single Product start
+        // Single Product start
 
-function bagfilter(){
-    return view('product.Biocide-Membrane-Cleaner.Bag-Filter');
-}
-function MicronFilterCartridge(){
-    return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Cartridge');
-}
-function MicronFilterHousing(){
-    return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Housing');
-}
+        function bagfilter(){
+            return view('product.Biocide-Membrane-Cleaner.Bag-Filter');
+        }
+        function MicronFilterCartridge(){
+            return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Cartridge');
+        }
+        function MicronFilterHousing(){
+            return view('product.Biocide-Membrane-Cleaner.Micron-Filter-Housing');
+        }
 
-function RoMembraneHousing(){
-    return view('product.Biocide-Membrane-Cleaner.Ro-Membrane-Housing');
-}
-function romembrane(){
-    return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
-}
-function pressurerootsblowers(){
-    return view('product.Blower.Pressure-Roots-Blowers');
-}
-
-
-function ringblower(){
-    return view('product.Blower.Ring-Blower');
-}
-function vacuumrootsblower(){
-    return view('product.Blower.Vacuum-Roots-Blower');
-}
-
-function electromagneticflowmeter(){
-    return view('product.Flow-Meter.Electromagnetic-Flow-Meter');
-}
-
-function threephasemotor(){
-    return view('product.Motor.three-phase-motor');
-}
-
-function singlephasemotor(){
-    return view('product.Motor.Single-Phase-Motor');
-}
+        function RoMembraneHousing(){
+            return view('product.Biocide-Membrane-Cleaner.Ro-Membrane-Housing');
+        }
+        function romembrane(){
+            return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
+        }
+        function pressurerootsblowers(){
+            return view('product.Blower.Pressure-Roots-Blowers');
+        }
 
 
-function frpvesse(){
-    return view('product.Vessel.frp-vessel');
-}
+        function ringblower(){
+            return view('product.Blower.Ring-Blower');
+        }
+        function vacuumrootsblower(){
+            return view('product.Blower.Vacuum-Roots-Blower');
+        }
 
-//pump section
+        function electromagneticflowmeter(){
+            return view('product.Flow-Meter.Electromagnetic-Flow-Meter');
+        }
 
-function DplSeriesDynamicPump(){
-    return view('product.Pump.High-Pressure-Multistage-Pump.Dpl-Series-Dynamic-Pump');
-}
+        function threephasemotor(){
+            return view('product.Motor.three-phase-motor');
+        }
 
-function DpSeriesDynamicPump(){
-    return view('product.Pump.High-Pressure-Multistage-Pump.Dp-Series-Dynamic-Pump');
-}
-function dpmCentrifugalPump(){
-    return view('product.Pump.Gk-Centrifugal-Pump.dpm-Centrifugal-Pump');
-}
-function gkdynamiccentrifugalpump(){
-    return view('product.Pump.Gk-Centrifugal-Pump.2gk-dynamic-centrifugal-pump');
-}
-function gksseriescentrifugalpump(){
-    return view('product.Pump.gks-series-centrifugal-pump');
-}
-
-//Water treatment chemicals and Media
-
-function DynamicActivatedCarbon(){
-    return view('product.Filtration-Media.Dynamic-Activated-Carbon');
-}
-
-function DynamicResin3(){
-    return view('product.Filtration-Media.Dynamic-Resin-1');
-}
-
-function DynamicResin2(){
-    return view('product.Filtration-Media.Dynamic-Resin-2');
-}
-
-function Anthracite(){
-    return view('product.Filtration-Media.dynamic-anthracite');
-}
-function Coconutshellactivatedcarbon(){
-    return view('product.Filtration-Media.dynamic-coconut-shell-activated-carbon');
-}
-function Manganesedioxide(){
-    return view('product.Filtration-Media.dynamic-manganese-dioxide');
-}
-function Biocide(){
-    return view('product.Filtration-Media.Biocide');
-}
-function Dechlorinator(){
-    return view('product.Filtration-Media.Dechlorinator');
-}
-function Flocculants(){
-    return view('product.Filtration-Media.Flocculants');
-}
-function RoAntiscalant(){
-    return view('product.Filtration-Media.Ro-Antiscalant');
-}
-
-function microdynereverseosmosismembrane(){
-    return view('product.membrane.dynamic-reverse-osmosis-membrane');
-}
-function membraniumreverseosmosismembrane(){
-    return view('product.membrane.membranium-reverse-osmosis-membrane');
-}
-function hydramembraneros(){
-    return view('product.membrane.hydranautics-ro-membranes');
-}
+        function singlephasemotor(){
+            return view('product.Motor.Single-Phase-Motor');
+        }
 
 
-//Dynamic Dosing Pump
-function dynamicdosingpump(){
-    return view('product.dosing-pump.dynamic-dosing-pump');
-}
-//Single Product End
+        function frpvesse(){
+            return view('product.Vessel.frp-vessel');
+        }
+
+        //pump section
+
+        function DplSeriesDynamicPump(){
+            return view('product.Pump.High-Pressure-Multistage-Pump.Dpl-Series-Dynamic-Pump');
+        }
+
+        function DpSeriesDynamicPump(){
+            return view('product.Pump.High-Pressure-Multistage-Pump.Dp-Series-Dynamic-Pump');
+        }
+        function dpmCentrifugalPump(){
+            return view('product.Pump.Gk-Centrifugal-Pump.dpm-Centrifugal-Pump');
+        }
+        function gkdynamiccentrifugalpump(){
+            return view('product.Pump.Gk-Centrifugal-Pump.2gk-dynamic-centrifugal-pump');
+        }
+        function gksseriescentrifugalpump(){
+            return view('product.Pump.gks-series-centrifugal-pump');
+        }
+
+        //Water treatment chemicals and Media
+
+        function DynamicActivatedCarbon(){
+            return view('product.Filtration-Media.Dynamic-Activated-Carbon');
+        }
+
+        function DynamicResin3(){
+            return view('product.Filtration-Media.Dynamic-Resin-1');
+        }
+
+        function DynamicResin2(){
+            return view('product.Filtration-Media.Dynamic-Resin-2');
+        }
+
+        function Anthracite(){
+            return view('product.Filtration-Media.dynamic-anthracite');
+        }
+        function Coconutshellactivatedcarbon(){
+            return view('product.Filtration-Media.dynamic-coconut-shell-activated-carbon');
+        }
+        function Manganesedioxide(){
+            return view('product.Filtration-Media.dynamic-manganese-dioxide');
+        }
+        function Biocide(){
+            return view('product.Filtration-Media.Biocide');
+        }
+        function Dechlorinator(){
+            return view('product.Filtration-Media.Dechlorinator');
+        }
+        function Flocculants(){
+            return view('product.Filtration-Media.Flocculants');
+        }
+        function RoAntiscalant(){
+            return view('product.Filtration-Media.Ro-Antiscalant');
+        }
+
+        function microdynereverseosmosismembrane(){
+            return view('product.membrane.dynamic-reverse-osmosis-membrane');
+        }
+        function membraniumreverseosmosismembrane(){
+            return view('product.membrane.membranium-reverse-osmosis-membrane');
+        }
+        function hydramembraneros(){
+            return view('product.membrane.hydranautics-ro-membranes');
+        }
+
+
+        //Dynamic Dosing Pump
+        function dynamicdosingpump(){
+            return view('product.dosing-pump.dynamic-dosing-pump');
+        }
+//Dynamic Submarsabile Pump
+
+       function dynamicsubmersiblepump2qgda(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-2qgda');
+            }
+         function dynamicsubmersiblepump35stm2(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3-5″stm2');
+            }
+         function dynamicsubmersiblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblepump3″stm2(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm2');
+            }
+         function dynamicsubmersiblepump3″stm35(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm3-5');
+            }
+         function dynamicsubmersiblepump3skm(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3skm');
+            }
+         function dynamicsubmersiblepump4″stm2(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm2');
+            }
+         function dynamicsubmersiblepump4″stm3(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm3');
+            }
+         function dynamicsubmersiblepump4″stm4(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm4');
+            }
+         function dynamicsubmersiblepump4″stm6(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm6');
+            }
+         function dynamicsubmersiblepump4″stm8(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm8');
+            }
+         function dynamicsubmersiblepump4″stm10(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm10');
+            }
+         function dynamicsubmersiblepump4″stm12(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm12');
+            } 
+         function dynamicsubmersiblepump4″stm16(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm16');
+            }
+
+
+
+            
+         function dynamicsubmeArsiblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+
+
+
+            
+         function dynamicsubmerAsiblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblepumAp3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicAsubmersiblepuAmp3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubAmersiblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiSblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblSepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersibleSpump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicdsubmersiblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersidblepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblepugmp3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblepukmp3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblekpump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersibljepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiblegpump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersiublepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersibltepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+         function dynamicsubmersibrlepump3″stm1(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+            }
+        
+
+        
+        //Single Product End
 
 
 
 
-// Product Category End
+        // Product Category End
 
 
-}
+        }
