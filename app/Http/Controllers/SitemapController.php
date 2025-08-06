@@ -271,22 +271,212 @@ class SitemapController extends Controller
             'changefreq' => 'monthly',
             'priority' => '0.8'
         ];
-
        
-
-
-        // Add dynamic pages
-        // $posts = \App\Models\Post::all();
-        // foreach ($posts as $post) {
-        //     $urls[] = [
-        //         'loc' => URL::to('/posts/' . $post->slug),
-        //         'lastmod' => $post->updated_at->toAtomString(),
-        //         'changefreq' => 'weekly',
-        //         'priority' => '0.9'
-        //     ];
-        // }
-
-        // Generate XML
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-2qgda'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-3.5″stm2'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-3″stm1'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-3″stm2'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-3″stm3.5'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-3skm'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm2'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm3'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm4'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm6'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm8'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm10'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm12'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4″stm16'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4qgda'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4skm'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4sm2'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4sm5'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4sm8'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-4stm'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-5sr10'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-5sr15'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sp17'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sp30'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sp46'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sp60'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sr18'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sr30'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-6sr45'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-ksm'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-qgda'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-s150a'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+          $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-s150b'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+         $urls[] = [
+            'loc' => URL::to('/product/dynamic-submersible-pump-s150c'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+         
         $xml = $this->generateSitemap($urls);
 
         return response($xml, 200)

@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>DMP Dynamic Centrifugal Pump in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
+    <title>Dynamic Submersible pump 3.5″STM2 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
         Membrane and Filtration Media in Bangladesh</title>
     <meta name="description"
         content="The efficiency and reliability of DMP Centrifugal Pumps. Explore our range of high-performance pumps designed for various industrial applications." />
@@ -16,13 +16,13 @@
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
-                <h2 style="margin-bottom:10px; margin-top:15px">DPM Centrifugal Pump</h2>
+                <h2 style="margin-bottom:10px; margin-top:15px">Dynamic Submersible pump 3.5″STM2</h2>
                 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);"
                     aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
                         <li class="breadcrumb-item"><a href="#">Product</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">DPM Centrifugal Pump</li>
+                        <li class="breadcrumb-item active" aria-current="page">Dynamic Submersible pump 3.5″STM2</li>
                     </ol>
                 </nav>
             </div>
@@ -37,7 +37,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8" style="margin-top: 15px; margin-left:15px">
-                    <h3>DPM Centrifugal Pump</h3>
+                    <h3>Dynamic Submersible pump 3.5″STM2</h3>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img

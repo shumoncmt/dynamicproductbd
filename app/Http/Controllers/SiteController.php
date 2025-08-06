@@ -301,67 +301,68 @@ class SiteController extends Controller
          function dynamicsubmersiblepump4″stm16(){
                 return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4″stm16');
             }
-
-
-
-            
-         function dynamicsubmeArsiblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4qgda(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4qgda');
             }
-
-
-
-            
-         function dynamicsubmerAsiblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4skm(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4skm');
             }
-         function dynamicsubmersiblepumAp3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4sm2(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4sm2');
             }
-         function dynamicAsubmersiblepuAmp3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4sm5(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4sm5');
             }
-         function dynamicsubAmersiblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4sm8(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4sm8');
             }
-         function dynamicsubmersiSblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump4stm(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-4stm');
             }
-         function dynamicsubmersiblSepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump5sr10(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-5sr10');
             }
-         function dynamicsubmersibleSpump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump5sr15(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-5sr15');
             }
-         function dynamicdsubmersiblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sp17(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sp17');
             }
-         function dynamicsubmersidblepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sp30(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sp30');
             }
-         function dynamicsubmersiblepugmp3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sp46(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sp46');
             }
-         function dynamicsubmersiblepukmp3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sp60(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sp60');
             }
          function dynamicsubmersiblekpump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sr18');
             }
-         function dynamicsubmersibljepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sr18(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sr18');
             }
-         function dynamicsubmersiblegpump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sr30(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sr30');
             }
-         function dynamicsubmersiublepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepump6sr45(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-6sr45');
             }
-         function dynamicsubmersibltepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepumpksm(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-ksm');
             }
-         function dynamicsubmersibrlepump3″stm1(){
-                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-3″stm1');
+         function dynamicsubmersiblepumpqgda(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-qgda');
+            }
+            function dynamicsubmersiblepumps150a(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-s150a');
+            }
+            function dynamicsubmersiblepumps150b(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-s150b');
+            }
+            function dynamicsubmersiblepumps150c(){
+                return view('product.pump.dynamic-submersible-pump.dynamic-submersible-pump-s150c');
             }
         
 

@@ -153,34 +153,26 @@ Route::get('/product/dynamic-submersible-pump-4″stm8', [SiteController::class,
 Route::get('/product/dynamic-submersible-pump-4″stm10', [SiteController::class, 'dynamicsubmersiblepump4″stm10'])->name('dynamicsubmersiblepump4″stm10');
 Route::get('/product/dynamic-submersible-pump-4″stm12', [SiteController::class, 'dynamicsubmersiblepump4″stm12'])->name('dynamicsubmersiblepump4″stm12');
 Route::get('/product/dynamic-submersible-pump-4″stm16', [SiteController::class, 'dynamicsubmersiblepump4″stm16'])->name('dynamicsubmersiblepump4″stm16');
-
-
-
-Route::get('/product/dynamic-submersible-pump-4qgda', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-
-
-
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-Route::get('/product/dynamic-submersible-pump-3″stm1', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
-
+Route::get('/product/dynamic-submersible-pump-4qgda', [SiteController::class, 'dynamicsubmersiblepump4qgda'])->name('dynamicsubmersiblepump4qgda');
+Route::get('/product/dynamic-submersible-pump-4skm', [SiteController::class, 'dynamicsubmersiblepump4skm'])->name('dynamicsubmersiblepump4skm');
+Route::get('/product/dynamic-submersible-pump-4sm2', [SiteController::class, 'dynamicsubmersiblepump4sm2'])->name('dynamicsubmersiblepump4sm2');
+Route::get('/product/dynamic-submersible-pump-4sm5', [SiteController::class, 'dynamicsubmersiblepump4sm5'])->name('dynamicsubmersiblepump4sm5');
+Route::get('/product/dynamic-submersible-pump-4sm8', [SiteController::class, 'dynamicsubmersiblepump4sm8'])->name('dynamicsubmersiblepump4sm8');
+Route::get('/product/dynamic-submersible-pump-4stm', [SiteController::class, 'dynamicsubmersiblepump4stm'])->name('dynamicsubmersiblepump4stm');
+Route::get('/product/dynamic-submersible-pump-5sr10', [SiteController::class, 'dynamicsubmersiblepump5sr10'])->name('dynamicsubmersiblepump5sr10');
+Route::get('/product/dynamic-submersible-pump-5sr15', [SiteController::class, 'dynamicsubmersiblepump5sr15'])->name('dynamicsubmersiblepump5sr15');
+Route::get('/product/dynamic-submersible-pump-6sp17', [SiteController::class, 'dynamicsubmersiblepump6sp17'])->name('dynamicsubmersiblepump6sp17');
+Route::get('/product/dynamic-submersible-pump-6sp30', [SiteController::class, 'dynamicsubmersiblepump6sp30'])->name('dynamicsubmersiblepump6sp30');
+Route::get('/product/dynamic-submersible-pump-6sp46', [SiteController::class, 'dynamicsubmersiblepump6sp46'])->name('dynamicsubmersiblepump6sp46');
+Route::get('/product/dynamic-submersible-pump-6sp60', [SiteController::class, 'dynamicsubmersiblepump6sp60'])->name('dynamicsubmersiblepump6sp60');
+Route::get('/product/dynamic-submersible-pump-6sr18', [SiteController::class, 'dynamicsubmersiblepump6sr18'])->name('dynamicsubmersiblepump6sr18');
+Route::get('/product/dynamic-submersible-pump-6sr30', [SiteController::class, 'dynamicsubmersiblepump6sr30'])->name('dynamicsubmersiblepump6sr30');
+Route::get('/product/dynamic-submersible-pump-6sr45', [SiteController::class, 'dynamicsubmersiblepump6sr45'])->name('dynamicsubmersiblepump6sr45');
+Route::get('/product/dynamic-submersible-pump-ksm', [SiteController::class, 'dynamicsubmersiblepumpksm'])->name('dynamicsubmersiblepumpksm');
+Route::get('/product/dynamic-submersible-pump-qgda', [SiteController::class, 'dynamicsubmersiblepumpqgda'])->name('dynamicsubmersiblepumpqgda');
+Route::get('/product/dynamic-submersible-pump-s150a', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
+Route::get('/product/dynamic-submersible-pump-s150b', [SiteController::class, 'dynamicsubmersiblepumps150b'])->name('dynamicsubmersiblepumps150b');
+Route::get('/product/dynamic-submersible-pump-s150c', [SiteController::class, 'dynamicsubmersiblepumps150c'])->name('dynamicsubmersiblepumps150c');
 
 
 //Single Product Enduse Illuminate\Support\Facades\Route;
