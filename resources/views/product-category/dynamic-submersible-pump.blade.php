@@ -61,16 +61,16 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump35stm2')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump3″stm35')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM3.5.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump35stm2')}}>
+                            href={{Route('dynamicsubmersiblepump3″stm35')}}>
                             <h4>Dynamic Submersible pump 3″STM3.5</h4>
                         </a>
                         <p style="text-align:justify">Discover the efficiency of Dynamic Micro Chemical Dosing Pumps!
                             Achieve precise chemical dosing for industrial applications with advanced technology.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump35stm2')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump3″stm35')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>

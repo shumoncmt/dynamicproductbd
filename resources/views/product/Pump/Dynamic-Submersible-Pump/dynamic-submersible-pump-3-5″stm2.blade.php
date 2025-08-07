@@ -37,21 +37,18 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8" style="margin-top: 15px; margin-left:15px">
-                    <h3>Dynamic Submersible pump 3.5″STM2</h3>
+                    <h3>Technical Data</h3>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                     <p></p>
-                    <h5>Application Limits</h5>
+                    <h5>Pump:</h5>
                     <ul>
-                        <li>Suction head up to 8m </li>
-                        <li>Liquid temperature up to +60℃</li>
-                        <li>Ambient temperature up to +40℃</li>
-                        <li>Max. Working pressure: 6bar</li>
-                        <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                        <li>pH: 6.5 to 8.5</li>
+                        <li>Qmax:2.8(m3/11) </li>
+                        <li>Capacity from0.75 to 1.5(m <sup>3</sup>/h)</li>
+                        <li>Total head from 138 to 38(m)</li>
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
@@ -81,47 +78,28 @@
                         <div class="description">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <h6>Performance Range</h6>
-                                    <li>Max. Flow: 39m <sup>3 </sup>/ h </li>
-                                    <li>Max. Head: 52m </li>
-                                    <p> </p>
-                                    <h6>Applications Fields</h6>
-                                    <li>Suitable for transferring water without abrasive particles or other liquid whose
-                                        properties are similar to water.</li>
-                                    <li>Widely used in industrial and urban water supply, high-rise building boosting,
-                                        fire protection system, breeding</li>
-                                    <p> </p>
-                                    <h6>Feature</h6>
-                                    <li>Standard flange centrifugal pump</li>
-                                    <li>Large flow, high efficiency</li>
-                                    <li>Maximum Suction 8 Meter </li>
-                                    <p> </p>
-                                    <h6>Performance Range</h6>
-                                    <li>Max. Flow: 39m <sup>3 </sup>/ h </li>
-                                    <li>Max. Head: 52m </li>
-                                    <p> </p>
-                                    <h6>Motor</h6>
-                                    <li>Three-Phase 380V/50Hz</li>
-                                    <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector,
-                                        fully closed fan cooling, continuous running </li>
-                                    <li>Protection: IP44</li>
-                                    <li>Insulation: Class B</li>
-                                    <p> </p>
-                                    <h6>Special Feature</h6>
-                                    <li>Motor whose insulation class is F</li>
-                                    <li>Has used C & U bearing</li>
+                                    <h6>Motor:</h6>
+                                    <li>Power:0.25 to 1.5kw(Single phase)</li>
+                                    <li>Insulation class:8</li>
+                                    <li>Protection grade:IP68</li>
+                                    <li>Maximum diameter: Φ 83mm</li>
+                                    <li>Highest temperature of liquid: 35o C</li>
                                     <p></p>
                                 </div>
                                 <div class="col-md-6 ">
-                                    <img class="img-fluid" src="{{ asset('img/product/pump/dmp-curve-1.png')}}"
+                                    <img class="img-fluid"
+                                        src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-model-3.5STM2.jpg')}}"
                                         alt="Carve">
                                 </div>
                             </div>
+                            <br>
                             <div class="row">
                                 <div class="col-md-6"> <img class="img-fluid"
-                                        src="{{ asset('img/product/pump/dmp-curve-2.png')}}" alt="Carve"></div>
+                                        src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic_Submersible-Pump-Curve_3.5%E2%80%B3STM2.jpg')}}"
+                                        alt="Carve"></div>
                                 <div class="col-md-6"> <img class="img-fluid"
-                                        src="{{ asset('img/product/pump/dmp-curve-1.png')}}" alt="Carve"></div>
+                                        src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3.5STM2-pump-figure.jpg')}}"
+                                        alt="Carve"></div>
                             </div>
                         </div>
                     </div>
@@ -146,430 +124,215 @@
                                         }
                                         </style>
                                         <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>2</th>
-                                            <th>4</th>
-                                            <th>6</th>
-                                            <th>8</th>
-                                            <th>10</th>
-                                            <th>12</th>
-                                            <th>14</th>
-                                            <th>16</th>
-                                            <th>18</th>
+                                            <th colspan="2">MODEL</th>
+                                            <th colspan="2">POWER</th>
+                                            <th colspan="7">Capacity and Head</th>
                                         </tr>
                                         <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
+                                            <th rowspan="2">SINGLE</th>
+                                            <th rowspan="2">THREE</th>
+                                            <th rowspan="2">KW</th>
+                                            <th rowspan="2">HP</th>
+                                            <th>m3/h</th>
+                                            <th>0</th>
+                                            <th>0.5</th>
+                                            <th>0.8</th>
+                                            <th>1</th>
+                                            <th>1.5</th>
+                                            <th>2.8</th>
+                                        </tr>
+                                        <tr class="align-top">
+                                            <th>I/min</th>
+                                            <th>0</th>
+                                            <th>8</th>
+                                            <th>13</th>
+                                            <th>17</th>
+                                            <th>25</th>
+                                            <th>43</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>DPM32-160-1.5</td>
-                                            <td>1.5</td>
-                                            <td>2</td>
-                                            <td rowspan="6">Head (Meter)</td>
-                                            <td>22</td>
-                                            <td>21</td>
-                                            <td>20.5</td>
-                                            <td>20</td>
-                                            <td>19.5</td>
-                                            <td>19</td>
-                                            <td>18.5</td>
-                                            <td>18</td>
-                                            <td>17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM32-160-2.2</td>
-                                            <td>2.2</td>
-                                            <td>3</td>
-                                            <td>29</td>
+                                            <td>3.5STM2-6</td>
+                                            <td></td>
+                                            <td>0.37</td>
+                                            <td>0.5</td>
+                                            <td rowspan="6">Head(m)</td>
+                                            <td>35</td>
+                                            <td>30</td>
                                             <td>28</td>
-                                            <td>28</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>27</td>
                                             <td>26</td>
                                             <td>24</td>
                                             <td>20</td>
                                         </tr>
                                         <tr>
-                                            <td>DPM32-160-3</td>
-                                            <td>3</td>
-                                            <td>4</td>
-                                            <td>35</td>
-                                            <td>34.5</td>
-                                            <td>34.5</td>
-                                            <td>34</td>
-                                            <td>34</td>
-                                            <td>33.5</td>
-                                            <td>33</td>
-                                            <td>31</td>
-                                            <td>29</td>
+                                            <td>3.5STM2-8</td>
+                                            <td></td>
+                                            <td>0.55</td>
+                                            <td>0.75</td>
+                                            <td>46</td>
+                                            <td>41</td>
+                                            <td>36</td>
+                                            <td>32</td>
+                                            <td>28</td>
+                                            <td>22</td>
                                         </tr>
                                         <tr>
-                                            <td>DPM 32-200-4</td>
-                                            <td>4</td>
-                                            <td>5.5</td>
-                                            <td>45</td>
-                                            <td>44</td>
-                                            <td>43</td>
-                                            <td>43.5</td>
-                                            <td>43</td>
-                                            <td>42</td>
-                                            <td>39</td>
-                                            <td>37</td>
-                                            <td>33</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM 32-200-5.5</td>
-                                            <td>5.5</td>
-                                            <td>7.5</td>
-                                            <td>57</td>
-                                            <td>56.5</td>
-                                            <td>56</td>
-                                            <td>55.5</td>
-                                            <td>54</td>
+                                            <td>3.5STM2-10</td>
+                                            <td>3.5STM2-10</td>
+                                            <td>0.75</td>
+                                            <td>1</td>
+                                            <td>58</td>
                                             <td>53</td>
-                                            <td>51</td>
-                                            <td>48</td>
-                                            <td>43</td>
+                                            <td>46</td>
+                                            <td>40</td>
+                                            <td>33</td>
+                                            <td>28</td>
                                         </tr>
                                         <tr>
-                                            <td>DPM 32-200-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
+                                            <td>3.5STM2-12</td>
+                                            <td>3.5STM2-12</td>
+                                            <td>1.1</td>
+                                            <td>1.5</td>
                                             <td>70</td>
-                                            <td>71</td>
-                                            <td>69</td>
-                                            <td>68</td>
-                                            <td>67</td>
-                                            <td>66</td>
-                                            <td>63</td>
-                                            <td>60</td>
-                                            <td>55</td>
+                                            <td>42</td>
+                                            <td>54</td>
+                                            <td>48</td>
+                                            <td>40</td>
+                                            <td>34</td>
                                         </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary">
-                                    <thead>
-                                        <style>
-                                        td,
-                                        th {
-                                            text-align: center;
-                                            color: black;
-                                        }
-
-                                        .align-top {
-                                            background-color: #175145;
-                                        }
-
-                                        th {
-                                            color: white;
-                                        }
-                                        </style>
-                                        <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>4</th>
-                                            <th>8</th>
-                                            <th>12</th>
-                                            <th>16</th>
-                                            <th>20</th>
-                                            <th>24</th>
-                                            <th>28</th>
-                                            <th>32</th>
-                                            <th>36</th>
-                                        </tr>
-                                        <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
                                         <tr>
-                                            <td>DPM40-125-1.5</td>
+                                            <td>3.5STM2-14</td>
+                                            <td>3.5STM2-14</td>
+                                            <td>1.1</td>
+                                            <td>1.5</td>
+                                            <td>81</td>
+                                            <td>76</td>
+                                            <td>70</td>
+                                            <td>63</td>
+                                            <td>56</td>
+                                            <td>40</td>
+                                        </tr>
+                                        <tr>
+                                            <td>3.5STM2-18</td>
+                                            <td>3.5STM2-18</td>
                                             <td>1.5</td>
                                             <td>2</td>
-                                            <td rowspan="6">Head (Meter)</td>
-                                            <td>17</td>
-                                            <td>17</td>
-                                            <td>16</td>
-                                            <td>15</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-125-2.2</td>
-                                            <td>2.2</td>
-                                            <td>3</td>
-                                            <td>23</td>
-                                            <td>22</td>
-                                            <td>21</td>
-                                            <td>19.5</td>
-                                            <td>20</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-160-3</td>
-                                            <td>3</td>
-                                            <td>4</td>
-                                            <td>28</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>26.5</td>
-                                            <td>25</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-160-4</td>
-                                            <td>4</td>
-                                            <td>5.5</td>
-                                            <td>35.5</td>
-                                            <td>35</td>
-                                            <td>34.5</td>
-                                            <td>34</td>
-                                            <td>34</td>
-                                            <td>33</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-200-5.5</td>
-                                            <td>5.5</td>
-                                            <td>7.5</td>
-                                            <td>42</td>
-                                            <td>41.5</td>
-                                            <td>41.5</td>
-                                            <td>41</td>
-                                            <td>40</td>
-                                            <td>39</td>
-                                            <td>36</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-200-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
-                                            <td>52</td>
-                                            <td>51</td>
-                                            <td>50.5</td>
+                                            <td>104</td>
+                                            <td>85</td>
+                                            <td>80</td>
+                                            <td>65</td>
+                                            <td>57</td>
                                             <td>50</td>
-                                            <td>49.5</td>
-                                            <td>49</td>
-                                            <td>47</td>
-                                            <td>43</td>
-                                            <td>36</td>
                                         </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary">
-                                    <thead>
-                                        <style>
-                                        td,
-                                        th {
-                                            text-align: center;
-                                            color: black;
-                                        }
-
-                                        .align-top {
-                                            background-color: #175145;
-                                        }
-
-                                        th {
-                                            color: white;
-                                        }
-                                        </style>
-                                        <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>4</th>
-                                            <th>8</th>
-                                            <th>12</th>
-                                            <th>16</th>
-                                            <th>20</th>
-                                            <th>24</th>
-                                            <th>28</th>
-                                            <th>32</th>
-                                            <th>36</th>
-                                        </tr>
-                                        <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>DPM80-125A-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
-                                            <td>Head (Meter)</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>26</td>
-                                            <td>25.5</td>
-                                            <td>25</td>
-                                            <td>23.5</td>
-                                            <td>22.5</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-
                                     </tbody>
                                 </table>
                             </div>
                         </div>
-                    </div>
-                    <div class="tab-pane container fade" id="menu2">
-                        <div class="specification">
-                            <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
-                                    src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
-                                    src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
-                                    src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
-                                    src="{{ asset('img/icon/icon.png')}}" alt=""></span>
+                        <div class="tab-pane container fade" id="menu2">
+                            <div class="specification">
+                                <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
+                                        src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
+                                        src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
+                                        src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
+                                        src="{{ asset('img/icon/icon.png')}}" alt=""></span>
+                            </div>
                         </div>
                     </div>
                 </div>
-            </div>
-
-
-            <div class="row ">
-                <h2 style="margin-bottom:10px; margin-top:15px">Related Product</h2>
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('DplSeriesDynamicPump')}}>
-                                <h4>DPL Series Dynamic Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
-                                cutting-edge technology, durability, and performance. Discover the perfect pump solution
-                                today!</p>
-                            <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+                <div class="row ">
+                    <h2 style="margin-bottom:10px; margin-top:15px">Related Product</h2>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href={{Route('DplSeriesDynamicPump')}}
+                                    class="post-image view image_hover">
+                                    <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a
+                                    href={{Route('DplSeriesDynamicPump')}}>
+                                    <h4>DPL Series Dynamic Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
+                                    cutting-edge technology, durability, and performance. Discover the perfect pump
+                                    solution
+                                    today!</p>
+                                <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href={{Route('dpmCentrifugalPump')}}
+                                    class="post-image view image_hover">
+                                    <img src="{{ asset('img/catagory/pump/dpm-centrifugal-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a
+                                    href={{Route('dpmCentrifugalPump')}}>
+                                    <h4>DPM Centrifugal Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Discover the efficiency and reliability of DPM Centrifugal
+                                    Pumps for all your industrial needs. High performance, low maintenance - the pump
+                                    solution you can trust!</p>
+                                <h6><a href={{Route('dpmCentrifugalPump')}}>Read more</a></h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href={{Route('gkdynamiccentrifugalpump')}}
+                                    class="post-image view image_hover"><img
+                                        src="{{ asset('img/catagory/pump/2gk-dynamic-centrifugal-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a
+                                    href={{Route('gkdynamiccentrifugalpump')}}>
+                                    <h4>2GK Dynamic Centrifugal Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Discover the efficiency of the 2GK Dynamic Centrifugal
+                                    Pump—delivering top performance and reliability for all industrial needs. Learn more
+                                    today!</p>
+                                <h6><a href={{Route('gkdynamiccentrifugalpump')}}>Read more</a></h6>
+                            </div>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('dpmCentrifugalPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpm-centrifugal-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href={{Route('dpmCentrifugalPump')}}>
-                                <h4>DPM Centrifugal Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Discover the efficiency and reliability of DPM Centrifugal
-                                Pumps for all your industrial needs. High performance, low maintenance - the pump
-                                solution you can trust!</p>
-                            <h6><a href={{Route('dpmCentrifugalPump')}}>Read more</a></h6>
+                    <div class="row">
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href={{Route('DpSeriesDynamicPump')}}
+                                    class="post-image view image_hover">
+                                    <img src="{{ asset('img/catagory/pump/dp-series-dynamic-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a
+                                    href={{Route('DpSeriesDynamicPump')}}>
+                                    <h4>DP Series Dynamic Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Discover the DP Series Dynamic Pump: Efficient, reliable,
+                                    and
+                                    powerful solutions for all your fluid handling needs. Enhance performance with our
+                                    cutting-edge technology.</p>
+                                <h6><a href={{Route('DpSeriesDynamicPump')}}>Read more</a></h6>
+                            </div>
                         </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('gkdynamiccentrifugalpump')}}
-                                class="post-image view image_hover"><img
-                                    src="{{ asset('img/catagory/pump/2gk-dynamic-centrifugal-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('gkdynamiccentrifugalpump')}}>
-                                <h4>2GK Dynamic Centrifugal Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Discover the efficiency of the 2GK Dynamic Centrifugal
-                                Pump—delivering top performance and reliability for all industrial needs. Learn more
-                                today!</p>
-                            <h6><a href={{Route('gkdynamiccentrifugalpump')}}>Read more</a></h6>
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href={{Route('DplSeriesDynamicPump')}}
+                                    class="post-image view image_hover">
+                                    <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a
+                                    href={{Route('DplSeriesDynamicPump')}}>
+                                    <h4>DPL Series Dynamic Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
+                                    cutting-edge technology, durability, and performance. Discover the perfect pump
+                                    solution
+                                    today!</p>
+                                <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+                            </div>
+                        </div>
+                        <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                            <div class="item"><a href="#" class="post-image view image_hover"> <img
+                                        src="{{ asset('img/catagory/pump/dynamic-submersible-pump.jpg')}}" alt=""
+                                        class="img-responsive zoom_img_effect"></a><a href="#">
+                                    <h4>Dynamic Submersible Pump</h4>
+                                </a>
+                                <p style="text-align:justify">Discover the power of Dynamic Submersible Pumps -
+                                    efficient,
+                                    reliable, and designed for deep water solutions. Boost your water management today!
+                                </p>
+                                <h6><a href="#">Read more</a></h6>
+                            </div>
                         </div>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DpSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dp-series-dynamic-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href={{Route('DpSeriesDynamicPump')}}>
-                                <h4>DP Series Dynamic Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Discover the DP Series Dynamic Pump: Efficient, reliable, and
-                                powerful solutions for all your fluid handling needs. Enhance performance with our
-                                cutting-edge technology.</p>
-                            <h6><a href={{Route('DpSeriesDynamicPump')}}>Read more</a></h6>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('DplSeriesDynamicPump')}}>
-                                <h4>DPL Series Dynamic Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
-                                cutting-edge technology, durability, and performance. Discover the perfect pump solution
-                                today!</p>
-                            <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href="#" class="post-image view image_hover"> <img
-                                    src="{{ asset('img/catagory/pump/dynamic-submersible-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href="#">
-                                <h4>Dynamic Submersible Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Discover the power of Dynamic Submersible Pumps - efficient,
-                                reliable, and designed for deep water solutions. Boost your water management today!</p>
-                            <h6><a href="#">Read more</a></h6>
-                        </div>
-                    </div>
-                </div>
-            </div>
     </section>
 
 
