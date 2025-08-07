@@ -170,7 +170,7 @@ Route::get('/product/dynamic-submersible-pump-6sr30', [SiteController::class, 'd
 Route::get('/product/dynamic-submersible-pump-6sr45', [SiteController::class, 'dynamicsubmersiblepump6sr45'])->name('dynamicsubmersiblepump6sr45');
 Route::get('/product/dynamic-submersible-pump-ksm', [SiteController::class, 'dynamicsubmersiblepumpksm'])->name('dynamicsubmersiblepumpksm');
 Route::get('/product/dynamic-submersible-pump-qgda', [SiteController::class, 'dynamicsubmersiblepumpqgda'])->name('dynamicsubmersiblepumpqgda');
-Route::get('/product/dynamic-submersible-pump-s150a', [SiteController::class, 'dynamicsubmersiblepump3″stm1'])->name('dynamicsubmersiblepump3″stm1');
+Route::get('/product/dynamic-submersible-pump-s150a', [SiteController::class, 'dynamicsubmersiblepumps150a'])->name('dynamicsubmersiblepumps150a');
 Route::get('/product/dynamic-submersible-pump-s150b', [SiteController::class, 'dynamicsubmersiblepumps150b'])->name('dynamicsubmersiblepumps150b');
 Route::get('/product/dynamic-submersible-pump-s150c', [SiteController::class, 'dynamicsubmersiblepumps150c'])->name('dynamicsubmersiblepumps150c');
 
