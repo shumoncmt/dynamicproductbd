@@ -31,27 +31,27 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:15px;">
                     <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('img/catagory/pump/dpm-centrifugal-pump.jpg')}}" alt=""
-                                class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
+                                src="{{ asset('#')}}" alt="" class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('industrialpump')}}>
                         </a>
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8" style="margin-top: 15px; margin-left:15px">
-                    <h3>DPM Centrifugal Pump</h3>
+                    <h3>Technical Data</h3>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                     <p></p>
-                    <h5>Application Limits</h5>
+                    <h5>Identification Code</h5>
                     <ul>
-                        <li>Suction head up to 8m </li>
-                        <li>Liquid temperature up to +60℃</li>
-                        <li>Ambient temperature up to +40℃</li>
-                        <li>Max. Working pressure: 6bar</li>
-                        <li>Voltage fluctuation should not exceed 10% of rated value.</li>
-                        <li>pH: 6.5 to 8.5</li>
+                        <li>4STM3-7</li>
+                        <li>4:Well diameter:4"</li>
+                        <li>ST: submersible pump model</li>
+                        <li>M:Single phase motor(three phase without M)</li>
+                        <li>2:Capacity(m3/h)</li>
+                        <li>6:Stage</li>
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
@@ -81,9 +81,10 @@
                         <div class="description">
                             <div class="row">
                                 <div class="col-md-6">
-                                    <h6>Performance Range</h6>
-                                    <li>Max. Flow: 39m <sup>3 </sup>/ h </li>
-                                    <li>Max. Head: 52m </li>
+                                    <h6>Fields of Application</h6>
+                                    <li>For water supply from wells or reservoir</li>
+                                    <li>For domestic use, for civil and industrial application</li>
+                                    <li>For garden use and irrigation</li>
                                     <p> </p>
                                     <h6>Applications Fields</h6>
                                     <li>Suitable for transferring water without abrasive particles or other liquid whose
@@ -91,37 +92,39 @@
                                     <li>Widely used in industrial and urban water supply, high-rise building boosting,
                                         fire protection system, breeding</li>
                                     <p> </p>
-                                    <h6>Feature</h6>
-                                    <li>Standard flange centrifugal pump</li>
-                                    <li>Large flow, high efficiency</li>
-                                    <li>Maximum Suction 8 Meter </li>
-                                    <p> </p>
-                                    <h6>Performance Range</h6>
-                                    <li>Max. Flow: 39m <sup>3 </sup>/ h </li>
-                                    <li>Max. Head: 52m </li>
-                                    <p> </p>
-                                    <h6>Motor</h6>
-                                    <li>Three-Phase 380V/50Hz</li>
-                                    <li>Motor: 2 pole asynchronous motor, copper wires, built-in thermal protector,
-                                        fully closed fan cooling, continuous running </li>
-                                    <li>Protection: IP44</li>
-                                    <li>Insulation: Class B</li>
-                                    <p> </p>
-                                    <h6>Special Feature</h6>
-                                    <li>Motor whose insulation class is F</li>
-                                    <li>Has used C & U bearing</li>
-                                    <p></p>
+                                    <h6>Technical Data</h6>
+                                    <li>Suitable fluids</li>
+                                    <li>Clear, free from solid or abrasive substances,</li>
+                                    <li>Chemically neutral and close to the characteristics of water Performance</li>
+                                    <li>Speed range:285Orpm</li>
+                                    <li>Fluid temperature range:-10o -4OoC</li>
+                                    <li>Max Working pressure:40bar</li>
+                                    <li>Ambient Temperature</li>
+                                    <li>Permissible up to 40oC</li>
                                 </div>
                                 <div class="col-md-6 ">
-                                    <img class="img-fluid" src="{{ asset('img/product/pump/dmp-curve-1.png')}}"
-                                        alt="Carve">
+                                    <h6>Power</h6>
+                                    <li>Single phase 1-240V/50Hz,</li>
+                                    <li>three-phase: 380V-415V/50Hz</li>
+                                    <h6>Motor</h6>
+                                    <li>Degree of protection: IP68</li>
+                                    <li>Insulation class: B</li>
+                                    <li>Construction Materials</li>
+                                    <li>Casing both of pump and motor, pump shaft: stainless steel AISI304</li>
+                                    <li>Outlet and Inlet: bronze</li>
+                                    <li>Impeller and diffuser, non-return valve: thermoplastic resin PPO</li>
+                                    <h6>Accessories</h6>
+                                    <li>Control switch, waterproof glue.</li>
                                 </div>
                             </div>
+                            <br>
                             <div class="row">
                                 <div class="col-md-6"> <img class="img-fluid"
-                                        src="{{ asset('img/product/pump/dmp-curve-2.png')}}" alt="Carve"></div>
+                                        src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic_Submersible-Pump-Curve_4%E2%80%B3STM3.jpg')}}"
+                                        alt="Carve"></div>
                                 <div class="col-md-6"> <img class="img-fluid"
-                                        src="{{ asset('img/product/pump/dmp-curve-1.png')}}" alt="Carve"></div>
+                                        src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4STM3-pump-figure.jpg')}}"
+                                        alt="Carve"></div>
                             </div>
                         </div>
                     </div>
@@ -146,330 +149,250 @@
                                         }
                                         </style>
                                         <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>2</th>
-                                            <th>4</th>
-                                            <th>6</th>
-                                            <th>8</th>
+                                            <th colspan="2">MODEL</th>
+                                            <th colspan="2">POWER</th>
+                                            <th colspan="10">Capacity and Head</th>
+                                        </tr>
+                                        <tr class="align-top">
+                                            <th rowspan="2">SINGLE</th>
+                                            <th rowspan="2">THREE</th>
+                                            <th rowspan="2">KW</th>
+                                            <th rowspan="2">HP</th>
+                                            <th>m3/h</th>
+                                            <th>0</th>
+                                            <th>0.6</th>
+                                            <th>1.2</th>
+                                            <th>1.8</th>
+                                            <th>2.5</th>
+                                            <th>3</th>
+                                            <th>3.6</th>
+                                            <th>4.2</th>
+                                            <th>4.8</th>
+                                        </tr>
+                                        <tr class="align-top">
+                                            <th>I/min</th>
+                                            <th>0</th>
                                             <th>10</th>
-                                            <th>12</th>
-                                            <th>14</th>
-                                            <th>16</th>
-                                            <th>18</th>
-                                        </tr>
-                                        <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                        </tr>
-                                    </thead>
-                                    <tbody>
-                                        <tr>
-                                            <td>DPM32-160-1.5</td>
-                                            <td>1.5</td>
-                                            <td>2</td>
-                                            <td rowspan="6">Head (Meter)</td>
-                                            <td>22</td>
-                                            <td>21</td>
-                                            <td>20.5</td>
-                                            <td>20</td>
-                                            <td>19.5</td>
-                                            <td>19</td>
-                                            <td>18.5</td>
-                                            <td>18</td>
-                                            <td>17</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM32-160-2.2</td>
-                                            <td>2.2</td>
-                                            <td>3</td>
-                                            <td>29</td>
-                                            <td>28</td>
-                                            <td>28</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>27</td>
-                                            <td>26</td>
-                                            <td>24</td>
-                                            <td>20</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM32-160-3</td>
-                                            <td>3</td>
-                                            <td>4</td>
-                                            <td>35</td>
-                                            <td>34.5</td>
-                                            <td>34.5</td>
-                                            <td>34</td>
-                                            <td>34</td>
-                                            <td>33.5</td>
-                                            <td>33</td>
-                                            <td>31</td>
-                                            <td>29</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM 32-200-4</td>
-                                            <td>4</td>
-                                            <td>5.5</td>
-                                            <td>45</td>
-                                            <td>44</td>
-                                            <td>43</td>
-                                            <td>43.5</td>
-                                            <td>43</td>
-                                            <td>42</td>
-                                            <td>39</td>
-                                            <td>37</td>
-                                            <td>33</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM 32-200-5.5</td>
-                                            <td>5.5</td>
-                                            <td>7.5</td>
-                                            <td>57</td>
-                                            <td>56.5</td>
-                                            <td>56</td>
-                                            <td>55.5</td>
-                                            <td>54</td>
-                                            <td>53</td>
-                                            <td>51</td>
-                                            <td>48</td>
-                                            <td>43</td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM 32-200-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
-                                            <td>70</td>
-                                            <td>71</td>
-                                            <td>69</td>
-                                            <td>68</td>
-                                            <td>67</td>
-                                            <td>66</td>
-                                            <td>63</td>
-                                            <td>60</td>
-                                            <td>55</td>
-                                        </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
-
-                            <div class="table-responsive">
-                                <table class="table table-bordered border-primary">
-                                    <thead>
-                                        <style>
-                                        td,
-                                        th {
-                                            text-align: center;
-                                            color: black;
-                                        }
-
-                                        .align-top {
-                                            background-color: #175145;
-                                        }
-
-                                        th {
-                                            color: white;
-                                        }
-                                        </style>
-                                        <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>4</th>
-                                            <th>8</th>
-                                            <th>12</th>
-                                            <th>16</th>
                                             <th>20</th>
-                                            <th>24</th>
-                                            <th>28</th>
-                                            <th>32</th>
-                                            <th>36</th>
-                                        </tr>
-                                        <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
+                                            <th>30</th>
+                                            <th>40</th>
+                                            <th>50</th>
+                                            <th>60</th>
+                                            <th>70</th>
+                                            <th>80</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>DPM40-125-1.5</td>
-                                            <td>1.5</td>
-                                            <td>2</td>
-                                            <td rowspan="6">Head (Meter)</td>
-                                            <td>17</td>
-                                            <td>17</td>
-                                            <td>16</td>
-                                            <td>15</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-125-2.2</td>
-                                            <td>2.2</td>
-                                            <td>3</td>
-                                            <td>23</td>
-                                            <td>22</td>
-                                            <td>21</td>
-                                            <td>19.5</td>
-                                            <td>20</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-160-3</td>
-                                            <td>3</td>
-                                            <td>4</td>
-                                            <td>28</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>26.5</td>
-                                            <td>25</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-160-4</td>
-                                            <td>4</td>
-                                            <td>5.5</td>
-                                            <td>35.5</td>
-                                            <td>35</td>
-                                            <td>34.5</td>
-                                            <td>34</td>
-                                            <td>34</td>
-                                            <td>33</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-200-5.5</td>
-                                            <td>5.5</td>
-                                            <td>7.5</td>
-                                            <td>42</td>
-                                            <td>41.5</td>
-                                            <td>41.5</td>
-                                            <td>41</td>
-                                            <td>40</td>
-                                            <td>39</td>
-                                            <td>36</td>
-                                            <td> - </td>
-                                            <td> - </td>
-                                        </tr>
-                                        <tr>
-                                            <td>DPM40-200-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
-                                            <td>52</td>
+                                            <td>4STM3/7</td>
+                                            <td></td>
+                                            <td>0.37</td>
+                                            <td>0.5</td>
+                                            <td rowspan="9">Head(m)</td>
                                             <td>51</td>
-                                            <td>50.5</td>
-                                            <td>50</td>
-                                            <td>49.5</td>
                                             <td>49</td>
                                             <td>47</td>
-                                            <td>43</td>
-                                            <td>36</td>
+                                            <td>44</td>
+                                            <td>69</td>
+                                            <td>31</td>
+                                            <td>21</td>
+                                            <td>11</td>
+                                            <td>2</td>
                                         </tr>
-
+                                        <tr>
+                                            <td>4STM3/9</td>
+                                            <td></td>
+                                            <td>0.55</td>
+                                            <td>0.75</td>
+                                            <td>65</td>
+                                            <td>63</td>
+                                            <td>61</td>
+                                            <td>57</td>
+                                            <td>50</td>
+                                            <td>40</td>
+                                            <td>27</td>
+                                            <td>14</td>
+                                            <td>3</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM3/12</td>
+                                            <td>4ST2/12</td>
+                                            <td>0.75</td>
+                                            <td>1</td>
+                                            <td>87</td>
+                                            <td>84</td>
+                                            <td>81</td>
+                                            <td>76</td>
+                                            <td>66</td>
+                                            <td>53</td>
+                                            <td>36</td>
+                                            <td>18</td>
+                                            <td>4</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM3/16</td>
+                                            <td>4ST2/16</td>
+                                            <td>1.1</td>
+                                            <td>1.5</td>
+                                            <td>116</td>
+                                            <td>112</td>
+                                            <td>108</td>
+                                            <td>101</td>
+                                            <td>89</td>
+                                            <td>70</td>
+                                            <td>48</td>
+                                            <td>25</td>
+                                            <td>5</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM3/22</td>
+                                            <td>4ST2/22</td>
+                                            <td>1.5</td>
+                                            <td>2</td>
+                                            <td>160</td>
+                                            <td>154</td>
+                                            <td>203</td>
+                                            <td>139</td>
+                                            <td>122</td>
+                                            <td>97</td>
+                                            <td>66</td>
+                                            <td>34</td>
+                                            <td>7</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM3/30</td>
+                                            <td>4ST2/30</td>
+                                            <td>2.2</td>
+                                            <td>3</td>
+                                            <td>218</td>
+                                            <td>210</td>
+                                            <td>203</td>
+                                            <td>190</td>
+                                            <td>166</td>
+                                            <td>132</td>
+                                            <td>90</td>
+                                            <td>46</td>
+                                            <td>9</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td>4ST2/36</td>
+                                            <td>3</td>
+                                            <td>4</td>
+                                            <td>262</td>
+                                            <td>252</td>
+                                            <td>244</td>
+                                            <td>228</td>
+                                            <td>199</td>
+                                            <td>158</td>
+                                            <td>108</td>
+                                            <td>55</td>
+                                            <td>11</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td>4ST2/42</td>
+                                            <td>4</td>
+                                            <td>5.5</td>
+                                            <td>305</td>
+                                            <td>294</td>
+                                            <td>284</td>
+                                            <td>265</td>
+                                            <td>233</td>
+                                            <td>185</td>
+                                            <td>126</td>
+                                            <td>65</td>
+                                            <td>13</td>
+                                        </tr>
+                                        <tr>
+                                            <td></td>
+                                            <td>4ST2/48</td>
+                                            <td>4</td>
+                                            <td>5.5</td>
+                                            <td>349</td>
+                                            <td>336</td>
+                                            <td>325</td>
+                                            <td>303</td>
+                                            <td>266</td>
+                                            <td>211</td>
+                                            <td>144</td>
+                                            <td>74</td>
+                                            <td>14</td>
+                                        </tr>
                                     </tbody>
                                 </table>
                             </div>
-
                             <div class="table-responsive">
                                 <table class="table table-bordered border-primary">
                                     <thead>
-                                        <style>
-                                        td,
-                                        th {
-                                            text-align: center;
-                                            color: black;
-                                        }
-
-                                        .align-top {
-                                            background-color: #175145;
-                                        }
-
-                                        th {
-                                            color: white;
-                                        }
-                                        </style>
                                         <tr class="align-top">
-                                            <th>Model</th>
-                                            <th colspan="2">Power</th>
-                                            <th>Capacity</th>
-                                            <th>4</th>
-                                            <th>8</th>
-                                            <th>12</th>
-                                            <th>16</th>
-                                            <th>20</th>
-                                            <th>24</th>
-                                            <th>28</th>
-                                            <th>32</th>
-                                            <th>36</th>
+                                            <th rowspan="2">Model</th>
+                                            <th rowspan="2">DN</th>
+                                            <th colspan="3">Dimensions(mm)</th>
                                         </tr>
                                         <tr class="align-top">
-                                            <th>380V, 50Hz, 3P</th>
-                                            <th>KW</th>
-                                            <th>HP</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
-                                            <th>m <sup>3 </sup> / h</th>
+                                            <th>L1</th>
+                                            <th>L(s)</th>
+                                            <th>L(T)</th>
                                         </tr>
                                     </thead>
                                     <tbody>
                                         <tr>
-                                            <td>DPM80-125A-7.5</td>
-                                            <td>7.5</td>
-                                            <td>10</td>
-                                            <td>Head (Meter)</td>
-                                            <td>27.5</td>
-                                            <td>27</td>
-                                            <td>26</td>
-                                            <td>25.5</td>
-                                            <td>25</td>
-                                            <td>23.5</td>
-                                            <td>22.5</td>
-                                            <td> - </td>
-                                            <td> - </td>
+                                            <td>4STM2-6</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>371</td>
+                                            <td>739</td>
+                                            <td>724</td>
                                         </tr>
-
+                                        <tr>
+                                            <td>4STM2-8</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>420</td>
+                                            <td>843</td>
+                                            <td>828</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-10</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>470</td>
+                                            <td>753</td>
+                                            <td>933</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-12</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>558</td>
+                                            <td>1142</td>
+                                            <td>1102</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-14</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>608</td>
+                                            <td>1382</td>
+                                            <td>1322</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-16</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>707</td>
+                                            <td>1666</td>
+                                            <td>1591</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-18</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>845</td>
+                                            <td>&nbsp;</td>
+                                            <td>1935</td>
+                                        </tr>
+                                        <tr>
+                                            <td>4STM2-22</td>
+                                            <td>1 <sup>1/4″</sup></td>
+                                            <td>&nbsp;</td>
+                                            <td>&nbsp;</td>
+                                            <td>&nbsp;</td>
+                                        </tr>
                                     </tbody>
                                 </table>
                             </div>
@@ -486,7 +409,6 @@
                     </div>
                 </div>
             </div>
-
 
             <div class="row ">
                 <h2 style="margin-bottom:10px; margin-top:15px">Related Product</h2>
