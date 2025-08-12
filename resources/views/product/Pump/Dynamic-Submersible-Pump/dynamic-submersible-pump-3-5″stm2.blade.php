@@ -7,8 +7,9 @@
     <title>Dynamic Submersible pump 3.5″STM2 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
         Membrane and Filtration Media in Bangladesh</title>
     <meta name="description"
-        content="The efficiency and reliability of DMP Centrifugal Pumps. Explore our range of high-performance pumps designed for various industrial applications." />
-    <meta name="keywords" content="DMP Centrifugal Pumps offer superior performance and durability.">
+        content="Enhance your pumping solutions with the Dynamic Submersible Pump 3.5″ STM2, engineered for superior efficiency and longevity. Find out more on our site!" />
+    <meta name="keywords"
+        content="Enhance your pumping solutions with the Dynamic Submersible Pump 3.5″ STM2, engineered for superior efficiency and longevity.">
     @include('master.header')
 </head>
 
@@ -31,7 +32,7 @@
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:15px;">
                     <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('img/catagory/pump/dpm-centrifugal-pump.jpg')}}" alt=""
+                                src="{{ asset('#')}}" alt="Dynamic Submersible pump 3.5″STM2"
                                 class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
                         </a>
                     </div>
@@ -52,7 +53,7 @@
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
-                            href="/img/product/pump/pdf/dpm-centrifugal-pump.pdf"> Brochure</a></button>
+                            href="#"> Brochure</a></button>
                 </div>
             </div>
         </div>

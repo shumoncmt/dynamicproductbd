@@ -7,8 +7,9 @@
     <title>Dynamic Submersible pump 6SP46 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
         Membrane and Filtration Media in Bangladesh</title>
     <meta name="description"
-        content="The efficiency and reliability of DMP Centrifugal Pumps. Explore our range of high-performance pumps designed for various industrial applications." />
-    <meta name="keywords" content="DMP Centrifugal Pumps offer superior performance and durability.">
+        content="The Dynamic Submersible Pump 6SP46 offers reliable performance and durability for your pumping needs." />
+    <meta name="keywords"
+        content="The Dynamic Submersible Pump 6SP46 offers reliable performance and durability for your pumping needs.">
     @include('master.header')
 </head>
 
@@ -52,7 +53,7 @@
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
-                            href="/img/product/pump/pdf/dpm-centrifugal-pump.pdf"> Brochure</a></button>
+                            href="#"> Brochure</a></button>
                 </div>
             </div>
         </div>
