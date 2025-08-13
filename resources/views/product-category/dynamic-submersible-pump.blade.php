@@ -35,44 +35,44 @@
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3″stm1')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm1')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM1.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump3″stm1')}}>
+                            href={{Route('dynamicsubmersiblepump3stm1')}}>
                             <h4>Dynamic Submersible pump-3″STM1</h4>
                         </a>
                         <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible
                             Pump-3″STM1. Learn about its innovative design and superior performance for all your needs.
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump3″stm1')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm1')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3″stm2')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm2')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM2.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump3″stm2')}}>
+                            href={{Route('dynamicsubmersiblepump3stm2')}}>
                             <h4>Dynamic Submersible pump-3″STM2</h4>
                         </a>
                         <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible
                             Pump-3″STM2. Learn about its innovative design and superior performance for all your needs.
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump3″stm2')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm2')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3″stm35')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm35')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM3.5.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump3″stm35')}}>
+                            href={{Route('dynamicsubmersiblepump3stm35')}}>
                             <h4>Dynamic Submersible pump 3″STM3.5</h4>
                         </a>
                         <p style="text-align:justify">Dynamic Submersible Pump 3″ STM3.5, engineered for reliability and
                             high performance in demanding environments.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump3″stm35')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm35')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>
@@ -91,114 +91,114 @@
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm2')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm2')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM2.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm2')}}>
+                            href={{Route('dynamicsubmersiblepump4stm2')}}>
                             <h4>Dynamic Submersible pump 4″STM2</h4>
                         </a>
                         <p style="text-align:justify">Dynamic Submersible Pump 4″ STM2 offers superior reliability and
                             efficiency. Uncover its specifications and applications to meet your pumping requirements.
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm2')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm2')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm3')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm3')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM3.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm3')}}>
+                            href={{Route('dynamicsubmersiblepump4stm3')}}>
                             <h4>Dynamic Submersible pump 4″STM3</h4>
                         </a>
                         <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible Pump
                             4″ STM3. Reliable, efficient, and perfect for diverse environments.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm3')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm3')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm4')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm4')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM4.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm4')}}>
+                            href={{Route('dynamicsubmersiblepump4stm4')}}>
                             <h4>Dynamic Submersible Pump 4″STM4</h4>
                         </a>
                         <p style="text-align:justify">Dynamic Submersible Pump 4″STM4 in Bangladesh -Best industrial
                             electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in Bangladesh</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm4')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm4')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm6')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm6')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM6.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm6')}}>
+                            href={{Route('dynamicsubmersiblepump4stm6')}}>
                             <h4>Dynamic Submersible pump 4″STM6</h4>
                         </a>
                         <p style="text-align:justify">Discover the efficiency of the 4 STM6 Dynamic Submersible Pump.
                             Ideal for various applications, it delivers reliable performance and durability.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm6')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm6')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm8')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm8')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM8.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm8')}}>
+                            href={{Route('dynamicsubmersiblepump4stm8')}}>
                             <h4>Dynamic Submersible pump 4″STM8</h4>
                         </a>
                         <p style="text-align:justify">4 STM8 dynamic submersible pump, engineered for optimal
                             performance in challenging environments. Learn how it can meet your pumping needs!</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm8')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm8')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>
             <div class="row">
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm10')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm10')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM10.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm10')}}>
+                            href={{Route('dynamicsubmersiblepump4stm10')}}>
                             <h4>Dynamic Submersible pump 4″STM10</h4>
                         </a>
                         <p style="text-align:justify">The 4 STM10 Dynamic Submersible Pump offers superior performance
                             and durability for all your pumping needs. Learn more about its innovative features today!
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm10')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm10')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm12')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm12')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM12.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm12')}}>
+                            href={{Route('dynamicsubmersiblepump4stm12')}}>
                             <h4>Dynamic Submersible pump 4″STM12</h4>
                         </a>
                         <p style="text-align:justify">The powerful 4 STM12 dynamic submersible pump, designed for
                             efficiency and reliability in various applications. Explore its features and benefits today!
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm12')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm12')}}>Read more</a></h6>
                     </div>
                 </div>
                 <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump4″stm16')}}
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump4stm16')}}
                             class="post-image view image_hover"> <img
                                 src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM16.jpg')}}"
                                 alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump4″stm16')}}>
+                            href={{Route('dynamicsubmersiblepump4stm16')}}>
                             <h4>Dynamic Submersible pump 4″STM16</h4>
                         </a>
                         <p style="text-align:justify">The powerful 4 STM16 dynamic submersible pump, designed for
                             optimal performance in demanding environments. Perfect for your pumping needs.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump4″stm16')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump4stm16')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>
