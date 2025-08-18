@@ -5,6 +5,7 @@ use App\Http\Controllers\SiteController;
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\SitemapController;
 use Illuminate\Support\Facades\Response;
+use App\Http\Controllers\ContactController;
 
 // Route::get('/', function () {
 //     return view('welcome');
@@ -29,6 +30,10 @@ Route::get('/sitemap.xml', [SitemapController::class, 'indexs']);
 //Sitemap End
 
 //Page Route Start
+
+Route::get('contact-us', [ContactController::class, 'index']);
+
+Route::post('contact-us', [ContactController::class, 'store'])->name('contact.us.store');
 
 Route::get('/', [SiteController::class, 'home'])->name('home');
 Route::get('/blog', [SiteController::class, 'blog'])->name('blog');
