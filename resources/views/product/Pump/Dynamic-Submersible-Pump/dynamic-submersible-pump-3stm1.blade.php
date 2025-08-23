@@ -30,10 +30,11 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:15px;">
+                <div class="col-lg-3 col-md-3 col-sm-4 service-info " style="margin-top:15px;">
                     <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('#')}}" alt="Dynamic Submersible pump-3″STM1"
-                                class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}"
+                                alt="Dynamic Submersible pump-3″STM1" class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('industrialpump')}}>
                         </a>
                     </div>
                 </div>

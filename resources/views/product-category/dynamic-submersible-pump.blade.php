@@ -34,11 +34,11 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm1')}}
-                            class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM1.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                    <div class="item">
+                        <a href={{Route('dynamicsubmersiblepump3stm1')}} class="post-image view image_hover">
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump3stm1')}}>
                             <h4>Dynamic Submersible pump-3″STM1</h4>
                         </a>
@@ -48,31 +48,47 @@
                         <h6><a href={{Route('dynamicsubmersiblepump3stm1')}}>Read more</a></h6>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm2')}}
-                            class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM2.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump3stm2')}}>
-                            <h4>Dynamic Submersible pump-3″STM2</h4>
+                <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                    <div class="item">
+                        <a href={{Route('dynamicsubmersiblepump3stm1')}} class="post-image view image_hover">
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('dynamicsubmersiblepump3stm1')}}>
+                            <h4>Dynamic Submersible pump-3″STM1</h4>
                         </a>
                         <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible
-                            Pump-3″STM2. Learn about its innovative design and superior performance for all your needs.
+                            Pump-3″STM1. Learn about its innovative design and superior performance for all your needs.
                         </p>
-                        <h6><a href={{Route('dynamicsubmersiblepump3stm2')}}>Read more</a></h6>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm1')}}>Read more</a></h6>
                     </div>
                 </div>
-                <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                    <div class="item"><a href={{Route('dynamicsubmersiblepump3stm35')}}
-                            class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3%E2%80%B3STM3.5.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
-                            href={{Route('dynamicsubmersiblepump3stm35')}}>
-                            <h4>Dynamic Submersible pump 3″STM3.5</h4>
+                <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                    <div class="item">
+                        <a href={{Route('dynamicsubmersiblepump3stm1')}} class="post-image view image_hover">
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('dynamicsubmersiblepump3stm1')}}>
+                            <h4>Dynamic Submersible pump-3″STM1</h4>
                         </a>
-                        <p style="text-align:justify">Dynamic Submersible Pump 3″ STM3.5, engineered for reliability and
-                            high performance in demanding environments.</p>
-                        <h6><a href={{Route('dynamicsubmersiblepump3stm35')}}>Read more</a></h6>
+                        <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible
+                            Pump-3″STM1. Learn about its innovative design and superior performance for all your needs.
+                        </p>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm1')}}>Read more</a></h6>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                    <div class="item">
+                        <a href={{Route('dynamicsubmersiblepump3stm1')}} class="post-image view image_hover">
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('dynamicsubmersiblepump3stm1')}}>
+                            <h4>Dynamic Submersible pump-3″STM1</h4>
+                        </a>
+                        <p style="text-align:justify">Enhance your pumping solutions with the
+                            Dynamic Submersible
+                            Pump-3″STM1. Learn about its innovative design and superior performance for all your needs.
+                        </p>
+                        <h6><a href={{Route('dynamicsubmersiblepump3stm1')}}>Read more</a></h6>
                     </div>
                 </div>
             </div>
