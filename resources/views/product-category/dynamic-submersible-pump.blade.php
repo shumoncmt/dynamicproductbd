@@ -51,7 +51,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item">
                         <a href={{Route('dynamicsubmersiblepump3stm2')}} class="post-image view image_hover">
-                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM2.jpg')}}" alt=""
                                 class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump3stm2')}}>
                             <h4>Dynamic Submersible pump-3″STM2</h4>
@@ -65,7 +65,7 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item">
                         <a href={{Route('dynamicsubmersiblepump3stm35')}} class="post-image view image_hover">
-                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM1.jpg')}}" alt=""
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3″STM3.5.jpg')}}" alt=""
                                 class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump3stm35')}}>
                             <h4>Dynamic Submersible pump 3″STM3.5</h4>
@@ -79,8 +79,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump35stm2')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3.5%E2%80%B3STM2.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3.5″STM2.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump35stm2')}}>
                             <h4>Dynamic Submersible pump 3.5″STM2</h4>
                         </a>
