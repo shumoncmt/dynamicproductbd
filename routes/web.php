@@ -190,3 +190,7 @@ Route::get('/robots.txt', function () {
     ];
     return Response::make(implode("\n", $lines), 200, ['Content-Type' => 'text/plain']);
 });
+
+Route::get('/index.html', function () {
+    return redirect('/');
+});
