@@ -30,14 +30,15 @@
         </div>
         <div class="container">
             <div class="row">
-                <div class="col-lg-4 col-md-4 col-sm-6 service-info " style="margin-top:15px;">
-                    <div class="item"><a href={{Route('industrialpump')}} class="post-image view image_hover"> <img
-                                src="{{ asset('#')}}" alt="Dynamic Submersible pump 4SM2"
-                                class="img-responsive zoom_img_effect"></a><a href={{Route('industrialpump')}}>
+                <div class="col-lg-3 col-md-3 col-sm-6 service-info " style="margin-top:15px;">
+                    <div class="item"><a href={{Route('dynamicsubmersiblepump')}} class="post-image view image_hover">
+                            <img src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm2.jpg')}}"
+                                alt="Dynamic Submersible pump 4SM2" class="img-responsive zoom_img_effect"></a><a
+                            href={{Route('dynamicsubmersiblepump')}}>
                         </a>
                     </div>
                 </div>
-                <div class="col-md-6 col-sm-8" style="margin-top: 15px; margin-left:15px">
+                <div class="col-md-8 col-sm-8" style="margin-top: 15px; margin-left:15px">
                     <h3>Technical Data</h3>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
@@ -370,81 +371,125 @@
             <div class="row ">
                 <h2 style="margin-bottom:10px; margin-top:15px">Related Product</h2>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump4skm')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4skm.jpg')}}" alt=""
                                     class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('DplSeriesDynamicPump')}}>
-                                <h4>DPL Series Dynamic Pump</h4>
+                                href={{Route('dynamicsubmersiblepump4skm')}}>
+                                <h4>Dynamic Submersible pump 4SKM</h4>
                             </a>
-                            <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
-                                cutting-edge technology, durability, and performance. Discover the perfect pump solution
-                                today!</p>
-                            <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+                            <p style="text-align:justify">Dynamic Submersible Pump 4SKM, designed for optimal
+                                performance in
+                                various applications. Explore its features and benefits today!</p>
+                            <h6><a href={{Route('dynamicsubmersiblepump4skm')}}>Read more</a></h6>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('dpmCentrifugalPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpm-centrifugal-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href={{Route('dpmCentrifugalPump')}}>
-                                <h4>DPM Centrifugal Pump</h4>
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump4stm')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4stm.jpg')}}" alt=""
+                                    class="img-responsive zoom_img_effect"></a><a
+                                href={{Route('dynamicsubmersiblepump4stm')}}>
+                                <h4>Dynamic Submersible pump 4STM</h4>
                             </a>
-                            <p style="text-align:justify">Discover the efficiency and reliability of DPM Centrifugal
-                                Pumps for all your industrial needs. High performance, low maintenance - the pump
-                                solution you can trust!</p>
-                            <h6><a href={{Route('dpmCentrifugalPump')}}>Read more</a></h6>
+                            <p style="text-align:justify">Dynamic Submersible Pump 4STM offers unmatched performance and
+                                durability for your pumping needs. Learn more about its innovative design and benefits!
+                            </p>
+                            <h6><a href={{Route('dynamicsubmersiblepump4stm')}}>Read more</a></h6>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('gkdynamiccentrifugalpump')}}
-                                class="post-image view image_hover"><img
-                                    src="{{ asset('img/catagory/pump/2gk-dynamic-centrifugal-pump.jpg')}}" alt=""
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepumpqgda')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-qgda.jpg')}}" alt=""
                                     class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('gkdynamiccentrifugalpump')}}>
-                                <h4>2GK Dynamic Centrifugal Pump</h4>
+                                href={{Route('dynamicsubmersiblepumpqgda')}}>
+                                <h4>Dynamic Submersible pump QGDA</h4>
                             </a>
-                            <p style="text-align:justify">Discover the efficiency of the 2GK Dynamic Centrifugal
-                                Pump—delivering top performance and reliability for all industrial needs. Learn more
-                                today!</p>
-                            <h6><a href={{Route('gkdynamiccentrifugalpump')}}>Read more</a></h6>
+                            <p style="text-align:justify">The QGDA dynamic submersible pump for superior water
+                                management.
+                                Engineered for durability and efficiency, it's perfect for industrial and agricultural
+                                use.
+                            </p>
+                            <h6><a href={{Route('dynamicsubmersiblepumpqgda')}}>Read more</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump2qgda')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-2qgda.jpg')}}" alt=""
+                                    class="img-responsive zoom_img_effect"></a><a
+                                href={{Route('dynamicsubmersiblepump2qgda')}}>
+                                <h4>Dynamic Submersible pump 2QGDA</h4>
+                            </a>
+                            <p style="text-align:justify">The Dynamic Submersible Pump 2QGDA offers reliable performance
+                                and
+                                durability. Find out how it can meet your pumping requirements effectively.</p>
+                            <h6><a href={{Route('dynamicsubmersiblepump2qgda')}}>Read more</a></h6>
                         </div>
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DpSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dp-series-dynamic-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href={{Route('DpSeriesDynamicPump')}}>
-                                <h4>DP Series Dynamic Pump</h4>
-                            </a>
-                            <p style="text-align:justify">Discover the DP Series Dynamic Pump: Efficient, reliable, and
-                                powerful solutions for all your fluid handling needs. Enhance performance with our
-                                cutting-edge technology.</p>
-                            <h6><a href={{Route('DpSeriesDynamicPump')}}>Read more</a></h6>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href={{Route('DplSeriesDynamicPump')}} class="post-image view image_hover">
-                                <img src="{{ asset('img/catagory/pump/dpl-series-dynamic-pump.jpg')}}" alt=""
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump4sm2')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm2.jpg')}}" alt=""
                                     class="img-responsive zoom_img_effect"></a><a
-                                href={{Route('DplSeriesDynamicPump')}}>
-                                <h4>DPL Series Dynamic Pump</h4>
+                                href={{Route('dynamicsubmersiblepump4sm2')}}>
+                                <h4>Dynamic Submersible pump 4SM2</h4>
                             </a>
-                            <p style="text-align:justify">Explore the DPL Series Dynamic Pump! Boost efficiency with
-                                cutting-edge technology, durability, and performance. Discover the perfect pump solution
-                                today!</p>
-                            <h6><a href={{Route('DplSeriesDynamicPump')}}>Read more</a></h6>
+                            <p style="text-align:justify">The Dynamic Submersible Pump 4SM2 offers reliable performance
+                                and
+                                durability for all your pumping needs. Learn more about its innovative design and
+                                applications.</p>
+                            <h6><a href={{Route('dynamicsubmersiblepump4sm2')}}>Read more</a></h6>
                         </div>
                     </div>
-                    <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-                        <div class="item"><a href="#" class="post-image view image_hover"> <img
-                                    src="{{ asset('img/catagory/pump/dynamic-submersible-pump.jpg')}}" alt=""
-                                    class="img-responsive zoom_img_effect"></a><a href="#">
-                                <h4>Dynamic Submersible Pump</h4>
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump4sm5')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm5.jpg')}}" alt=""
+                                    class="img-responsive zoom_img_effect"></a><a
+                                href={{Route('dynamicsubmersiblepump4sm5')}}>
+                                <h4>Dynamic Submersible pump 4SM5</h4>
                             </a>
-                            <p style="text-align:justify">Discover the power of Dynamic Submersible Pumps - efficient,
-                                reliable, and designed for deep water solutions. Boost your water management today!</p>
-                            <h6><a href="#">Read more</a></h6>
+                            <p style="text-align:justify">Dynamic Submersible Pump 4SM5 offers reliable performance and
+                                durability for your pumping needs. Learn more about its innovative design and
+                                applications
+                                now!</p>
+                            <h6><a href={{Route('dynamicsubmersiblepump4sm5')}}>Read more</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump4sm8')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm8.jpg')}}" alt=""
+                                    class="img-responsive zoom_img_effect"></a><a
+                                href={{Route('dynamicsubmersiblepump4sm8')}}>
+                                <h4>Dynamic Submersible pump 4SM8</h4>
+                            </a>
+                            <p style="text-align:justify">Discover the efficiency of Dynamic Micro Chemical Dosing
+                                Pumps!
+                                Achieve precise chemical dosing for industrial applications with advanced technology.
+                            </p>
+                            <h6><a href={{Route('dynamicsubmersiblepump4sm8')}}>Read more</a></h6>
+                        </div>
+                    </div>
+                    <div class="col-lg-3 col-md-3 col-sm-6 service-info">
+                        <div class="item"><a href={{Route('dynamicsubmersiblepump3skm')}}
+                                class="post-image view image_hover"> <img
+                                    src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3skm.jpg')}}" alt=""
+                                    class="img-responsive zoom_img_effect"></a><a
+                                href={{Route('dynamicsubmersiblepump3skm')}}>
+                                <h4>Dynamic Submersible pump 3SKM</h4>
+                            </a>
+                            <p style="text-align:justify">Enhance your pumping solutions with the Dynamic Submersible
+                                Pump
+                                3SKM. Engineered for efficiency and longevity, find out how it can meet your
+                                requirements.
+                            </p>
+                            <h6><a href={{Route('dynamicsubmersiblepump3skm')}}>Read more</a></h6>
                         </div>
                     </div>
                 </div>

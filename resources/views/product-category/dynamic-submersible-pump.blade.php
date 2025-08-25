@@ -11,13 +11,10 @@
         content="Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today" />
     <meta name="keywords"
         content="Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today!">
-
     @include('master.header')
-
 </head>
 
 <body>
-
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
@@ -94,8 +91,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm2')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM2.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm2.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm2')}}>
                             <h4>Dynamic Submersible pump 4″STM2</h4>
                         </a>
@@ -108,8 +105,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm3')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM3.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm3.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm3')}}>
                             <h4>Dynamic Submersible pump 4″STM3</h4>
                         </a>
@@ -121,8 +118,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm4')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM4.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm4.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm4')}}>
                             <h4>Dynamic Submersible Pump 4″STM4</h4>
                         </a>
@@ -134,8 +131,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm6')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM6.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm6.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm6')}}>
                             <h4>Dynamic Submersible pump 4″STM6</h4>
                         </a>
@@ -149,8 +146,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm8')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM8.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm8.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm8')}}>
                             <h4>Dynamic Submersible pump 4″STM8</h4>
                         </a>
@@ -162,8 +159,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm10')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM10.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm10.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm10')}}>
                             <h4>Dynamic Submersible pump 4″STM10</h4>
                         </a>
@@ -176,8 +173,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm12')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM12.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm12.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm12')}}>
                             <h4>Dynamic Submersible pump 4″STM12</h4>
                         </a>
@@ -190,8 +187,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm16')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4%E2%80%B3STM16.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4″stm16.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm16')}}>
                             <h4>Dynamic Submersible pump 4″STM16</h4>
                         </a>
@@ -205,8 +202,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump5sr10')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-5SR10.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-5sr10.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump5sr10')}}>
                             <h4>Dynamic Submersible pump 5SR10</h4>
                         </a>
@@ -218,8 +215,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump5sr15')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-5SR15.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-5sr15.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump5sr15')}}>
                             <h4>Dynamic Submersible pump 5SR15</h4>
                         </a>
@@ -231,8 +228,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sr18')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SR18.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sr18.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sr18')}}>
                             <h4>Dynamic Submersible pump 6SR18</h4>
                         </a>
@@ -245,8 +242,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sr30')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SR30.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sr30.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sr30')}}>
                             <h4>Dynamic Submersible pump 6SR30</h4>
                         </a>
@@ -260,8 +257,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sr45')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SR45.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sr45.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sr45')}}>
                             <h4>Dynamic Submersible pump 6SR45</h4>
                         </a>
@@ -273,8 +270,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sp17')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SP17.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sp17.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sp17')}}>
                             <h4>Dynamic Submersible pump 6SP17</h4>
                         </a>
@@ -287,8 +284,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sp30')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SR18.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sp30.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sp30')}}>
                             <h4>Dynamic Submersible pump 6SP30</h4>
                         </a>
@@ -300,8 +297,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sp46')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SP46.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sp46.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sp46')}}>
                             <h4>Dynamic Submersible pump 6SP46</h4>
                         </a>
@@ -315,8 +312,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump6sp60')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-6SP60.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-6sp60.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump6sp60')}}>
                             <h4>Dynamic Submersible pump 6SP60</h4>
                         </a>
@@ -328,8 +325,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepumps150a')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-S150A.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-s150a.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepumps150a')}}>
                             <h4>Dynamic Submersible pump S150A</h4>
                         </a>
@@ -341,8 +338,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepumps150b')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-S150B.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-s150b.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepumps150b')}}>
                             <h4>Dynamic Submersible pump S150B</h4>
                         </a>
@@ -354,8 +351,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepumps150c')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-S150C.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-s150c.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepumps150c')}}>
                             <h4>Dynamic Submersible pump S150C</h4>
                         </a>
@@ -369,8 +366,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4sm2')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4SM2.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm2.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4sm2')}}>
                             <h4>Dynamic Submersible pump 4SM2</h4>
                         </a>
@@ -383,8 +380,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4sm5')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4SM2.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm5.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4sm5')}}>
                             <h4>Dynamic Submersible pump 4SM5</h4>
                         </a>
@@ -397,8 +394,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4sm8')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4SM8.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4sm8.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4sm8')}}>
                             <h4>Dynamic Submersible pump 4SM8</h4>
                         </a>
@@ -410,8 +407,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump3skm')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-3SKM.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-3skm.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump3skm')}}>
                             <h4>Dynamic Submersible pump 3SKM</h4>
                         </a>
@@ -426,8 +423,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4skm')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4SKM.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4skm.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4skm')}}>
                             <h4>Dynamic Submersible pump 4SKM</h4>
                         </a>
@@ -439,8 +436,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4stm')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4STM6.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4stm.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4stm')}}>
                             <h4>Dynamic Submersible pump 4STM</h4>
                         </a>
@@ -452,8 +449,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepumpqgda')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-QGDA-2nd-.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-qgda.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepumpqgda')}}>
                             <h4>Dynamic Submersible pump QGDA</h4>
                         </a>
@@ -466,8 +463,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump2qgda')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-2QGDA.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-2qgda.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump2qgda')}}>
                             <h4>Dynamic Submersible pump 2QGDA</h4>
                         </a>
@@ -481,8 +478,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepump4qgda')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-4QGDA.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-4qgda.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepump4qgda')}}>
                             <h4>Dynamic Submersible pump 4QGDA</h4>
                         </a>
@@ -494,8 +491,8 @@
                 <div class="col-lg-3 col-md-3 col-sm-6 service-info">
                     <div class="item"><a href={{Route('dynamicsubmersiblepumpksm')}}
                             class="post-image view image_hover"> <img
-                                src="{{ asset('https://greengenesisbd.com/wp-content/uploads/2021/04/Dynamic-Submersible-pump-KSM.jpg')}}"
-                                alt="" class="img-responsive zoom_img_effect"></a><a
+                                src="{{ asset('img/product/dynamic/dynamic-submersible-pump-ksm.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a
                             href={{Route('dynamicsubmersiblepumpksm')}}>
                             <h4>Dynamic Submersible pump KSM</h4>
                         </a>
