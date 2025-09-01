@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pressure Roots Blower in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane
-        and Filtration Media in Bangladesh</title>
+    <title>Pressure Roots Blower in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality pressure roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords"
@@ -22,8 +21,8 @@
                 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);"
                     aria-label="breadcrumb">
                     <ol class="breadcrumb">
-                        <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item"><a href="#">Product</a></li>
+                        <li class="breadcrumb-item"><a href={{Route('home')}}>Home</a></li>
+                        <li class="breadcrumb-item"><a href={{Route('blower')}}>Product</a></li>
                         <li class="breadcrumb-item active" aria-current="page">Pressure Roots Blower</li>
                     </ol>
                 </nav>
@@ -46,7 +45,7 @@
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                     <p></p>
-                    <p>Goldentech Three lobes type Roots Blower was manufactured by CNC machine for precise rotors for
+                    <p>Dynamic Three lobes type Roots Blower was manufactured by CNC machine for precise rotors for
                         high performance, and low noise and vibration.</p>
                     <h5>Description</h5>
                     <ul>
@@ -289,9 +288,8 @@
 
                                                 td {
 
-                                                    background: url("https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf"target="_blank"")
-
-                                                    }
+                                                    background: url("https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf")
+                                                }
                                                 </style>
                                                 <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf"
                                                     download=""> <img decoding="async"
