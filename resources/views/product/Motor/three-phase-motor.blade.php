@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Three Phase Motor in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in Bangladesh</title>
+    <title>Three Phase Motor in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality three-phase motors in Bangladesh. Explore our extensive range of products designed for efficiency and reliability in various applications." />
     <meta name="keywords"

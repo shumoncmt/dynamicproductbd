@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Industrial Pump - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media
-        in Bangladesh | Dynamic Industrial Product</title>
+    <title>Industrial Pump</title>
     <meta name="description"
         content="High-quality industrial pumps designed for efficiency and durability. Explore our extensive range of solutions tailored to meet your operational needs." />
     <meta name="keywords"

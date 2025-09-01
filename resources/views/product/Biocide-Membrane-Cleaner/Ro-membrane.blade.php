@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ro Membrane in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in
-        Bangladesh</title>
+    <title>Ro Membrane in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality RO membranes in Bangladesh, designed for efficient water purification. Explore our range of products for optimal filtration solutions" />
     <meta name="keywords"

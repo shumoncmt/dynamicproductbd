@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dosing Pump -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Dyanmic Dosing Pump </title>
     <meta name="description"
         content="Explore dosing pumps for precise fluid control in industrial and commercial applications. Efficient, reliable, and easy to use." />
     <meta name="keywords"

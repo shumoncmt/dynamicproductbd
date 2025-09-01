@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ro Membrane Housing in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in
-        Bangladesh</title>
+    <title>Ro Membrane Housing in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality RO membrane housing solutions in Bangladesh. Our products ensure optimal performance and durability for your water purification needs." />
     <meta name="keywords" content="RO membrane housing options in Bangladesh. Designed for efficiency and longevity">

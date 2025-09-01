@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>FRP Vessel - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>FRP Vessel</title>
     <meta name="description"
         content="High-quality FRP vessels designed for durability and efficiency. Explore our range of products tailored for various industrial applications." />
     <meta name="keywords"

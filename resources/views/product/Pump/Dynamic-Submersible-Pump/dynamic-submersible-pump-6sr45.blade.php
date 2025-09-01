@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump 6SR45 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump 6SR45 in Bangladesh</title>
     <meta name="description"
         content="The Dynamic Submersible Pump 6SR45 offers reliable performance and durability for your pumping needs. " />
     <meta name="keywords"

@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump 4SM5 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump 4SM5 in Bangladesh</title>
     <meta name="description"
         content="Dynamic Submersible Pump 4SM5 offers reliable performance and durability for your pumping needs. Learn more about its innovative design and applications now!" />
     <meta name="keywords"

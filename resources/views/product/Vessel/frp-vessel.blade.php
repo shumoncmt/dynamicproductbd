@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic frp vessel in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane
-        and Filtra tion Media in Bangladesh</title>
+    <title>Dynamic frp vessel in Bangladesh</title>
     <meta name="description"
         content="High-quality dynamic FRP vessel pumps in Bangladesh. Our innovative solutions ensure efficiency and durability for various industrial applications." />
     <meta name="keywords"
@@ -16,8 +15,6 @@
 </head>
 
 <body>
-
-
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">

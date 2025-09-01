@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Electromagnetic flow Meter - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in Bangladesh | Dynamic Industrial Product</title>
+    <title>Dyanmic- Electromagnetic flow Meter</title>
     <meta name="description"
         content="Precision and reliability with our electromagnetic flow meters. Ideal for various applications, ensuring accurate flow measurement in any environment" />
     <meta name="keywords"

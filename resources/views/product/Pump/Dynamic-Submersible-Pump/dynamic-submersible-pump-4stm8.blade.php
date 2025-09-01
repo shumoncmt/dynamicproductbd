@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump 4″STM8 in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump 4″STM8 in Bangladesh</title>
     <meta name="description"
         content="4 STM8 dynamic submersible pump, engineered for optimal performance in challenging environments. Learn how it can meet your pumping needs!" />
     <meta name="keywords"

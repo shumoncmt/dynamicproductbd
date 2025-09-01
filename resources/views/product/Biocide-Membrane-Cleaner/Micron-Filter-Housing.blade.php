@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Micron filter Housing in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane
-        and Filtration Media in Bangladesh</title>
+    <title>Micron filter Housing in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality micron filter housings in Bangladesh. Our durable solutions ensure optimal filtration for various applications." />
     <meta name="keywords"

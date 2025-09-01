@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump 3SKM in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump 3SKM in Bangladesh</title>
     <meta name="description"
         content="Enhance your pumping solutions with the Dynamic Submersible Pump 3SKM. Engineered for efficiency and longevity, find out how it can meet your requirements." />
     <meta name="keywords"

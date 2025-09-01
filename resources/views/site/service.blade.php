@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Service</title>
     <meta name="description"
         content="Discover top-quality industrial motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh." />
     <meta name="keywords"

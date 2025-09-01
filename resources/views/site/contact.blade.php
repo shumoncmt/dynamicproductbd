@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Contact -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh |
-        Dynamic Industrial Product</title>
+    <title>Contact</title>
     <meta name="description"
         content="Want to communication with us? Here the Green Genesis Engineering  Limited Contact Information" />
     <meta name="keywords"

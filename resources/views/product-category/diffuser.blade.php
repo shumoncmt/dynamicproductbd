@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Diffuser - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Dynamic- Diffuser</title>
     <meta name="description" content="Our collection of high-quality diffusers designed to elevate your environment." />
     <meta name="keywords"
         content="Unleash the power of essential oils with our stylish diffusers. Perfect for any setting, they provide a calming ambiance and promote well-being in your space">

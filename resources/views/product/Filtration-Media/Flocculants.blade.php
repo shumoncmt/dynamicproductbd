@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flocculants in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in Bangladesh</title>
+    <title>Flocculants in Bangladesh</title>
     <meta name="description"
         content="Flocculants in Bangladesh and their impact on water treatment processes. Access expert insights and solutions for enhanced industrial applications." />
     <meta name="keywords"

@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ro Antiscalant in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in Bangladesh</title>
+    <title>Ro Antiscalant in Bangladesh</title>
     <meta name="description"
         content="Ro Antiscalant solutions in Bangladesh. Ensure efficient water treatment and protect your systems from scaling with our high-quality products." />
     <meta name="keywords"

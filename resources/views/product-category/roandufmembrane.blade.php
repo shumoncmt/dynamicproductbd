@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Ro and Uf Membrane - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration
-        Media in Bangladesh| Dynamic Industrial Product </title>
+    <title>Ro and Uf Membrane</title>
     <meta name="description"
         content="High-quality RO and UF membranes for water purification. Enhance your filtration systems with our advanced technology and reliable solutions" />
     <meta name="keywords"

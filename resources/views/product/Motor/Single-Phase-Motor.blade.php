@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Single Phase Motor in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in Bangladesh</title>
+    <title>Single Phase Motor in Bangladesh</title>
     <meta name="description"
         content="Best single phase motors in Bangladesh. Our website offers a wide selection of durable and efficient motors tailored to meet your needs." />
     <meta name="keywords"

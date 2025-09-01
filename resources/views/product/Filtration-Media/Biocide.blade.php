@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Biocide in Bangladesh - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration
-        Media in
-        Bangladesh</title>
+    <title>Biocide in Bangladesh</title>
     <meta name="description"
         content="The essential role of biocides in Bangladesh, focusing on their applications, safety standards, and regulatory frameworks for effective management and usage" />
     <meta name="keywords"

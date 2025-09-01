@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Filtration Media - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media
-        in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Filtration Media</title>
     <meta name="description"
         content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords"

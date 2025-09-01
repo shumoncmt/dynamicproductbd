@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump S150B in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump S150B in Bangladesh</title>
     <meta name="description"
         content="Unleash the potential of the S150B dynamic submersible pump, perfect for industrial and residential use." />
     <meta name="keywords"

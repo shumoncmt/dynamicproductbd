@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible pump 2QGDA in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro
-        Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Submersible pump 2QGDA in Bangladesh</title>
     <meta name="description"
         content="The Dynamic Submersible Pump 2QGDA offers reliable performance and durability. Find out how it can meet your pumping requirements effectively." />
     <meta name="keywords" content="The Dynamic Submersible Pump 2QGDA offers reliable performance and durability. ">

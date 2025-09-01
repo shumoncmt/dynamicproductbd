@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Activated Carbon in Bangladesh -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane
-        and Filtration Media in Bangladesh</title>
+    <title>Dynamic Activated Carbon in Bangladesh</title>
     <meta name="description"
         content="The benefits of Dynamic Activated Carbon in Bangladesh. Explore our innovative solutions for air and water purification to enhance environmental health." />
     <meta name="keywords"

@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Electric Motor - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media
-        in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Dyanmic Electric Motor</title>
     <meta name="description"
         content="The latest in electric motor technology. Explore our comprehensive range of products, expert insights, and innovative solutions for all your electric motor needs." />
     <meta name="keywords" content="ElectricMotor offers a wide selection of electric motors and accessories.">

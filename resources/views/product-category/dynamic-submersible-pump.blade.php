@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Submersible Pump -Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and
-        Filtration Media in
-        Bangladesh | Dynamic Industrial Product</title>
+    <title>Dynamic Submersible Pump</title>
     <meta name="description"
         content="Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today" />
     <meta name="keywords"

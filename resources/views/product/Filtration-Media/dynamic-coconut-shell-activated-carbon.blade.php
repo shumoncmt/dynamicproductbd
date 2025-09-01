@@ -4,8 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Dynamic Coconut shell activated carbon in Bangladesh -Best industrial electric motor, Pump, Blower, Flow
-        Meter, Ro Membrane and Filtration Media in Bangladesh</title>
+    <title>Dynamic Coconut shell activated carbon in Bangladesh</title>
     <meta name="description"
         content="High-quality dynamic coconut shell activated carbon in Bangladesh. Our products ensure superior filtration and environmental sustainability for various applications." />
     <meta name="keywords"

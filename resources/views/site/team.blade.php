@@ -4,9 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Team - Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in
-        Bangladesh |
-        Dynamic Industrial Product</title>
+    <title>Team</title>
     <meta name="description" content="Green Genesis Engineering Limited All team member work most successfully Work" />
     <meta name="keywords" content="Green Genesis Engineering Limited All team member work most successfully Work">
 
