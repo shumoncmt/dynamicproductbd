@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Pressure Roots Blower in Bangladesh</title>
+    <title>Dynamic Pressure Roots Blower in Bangladesh</title>
     <meta name="description"
         content="Discover high-quality pressure roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords"
@@ -17,13 +17,13 @@
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
-                <h2 style="margin-bottom:10px; margin-top:15px">Pressure Roots Blower</h2>
+                <h2 style="margin-bottom:10px; margin-top:15px">Dynamic Pressure Roots Blower</h2>
                 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);"
                     aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href={{Route('home')}}>Home</a></li>
                         <li class="breadcrumb-item"><a href={{Route('blower')}}>Product</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">Pressure Roots Blower</li>
+                        <li class="breadcrumb-item active" aria-current="page">Dynamic Pressure Roots Blower</li>
                     </ol>
                 </nav>
             </div>
@@ -38,7 +38,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8" style="margin-top: 15px; margin-left:15px">
-                    <h2>Pressure Roots Blower</h2>
+                    <h2>Dynamic Pressure Roots Blower</h2>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
@@ -59,11 +59,9 @@
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
                             href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf">
                             Brochure</a></button>
-
                 </div>
             </div>
         </div>
-
         <div class="container my-5">
             <div class="additional-details my-5 ">
                 <h2>Product Details</h2>
@@ -114,7 +112,6 @@
                                         <li>Electroplating Industry</li>
                                         <li>Paper, Chemical and Food Industry</li>
                                     </ul>
-
                                 </div>
                                 <div class="col-md-6 ">
 

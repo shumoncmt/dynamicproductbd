@@ -204,12 +204,6 @@ class SitemapController extends Controller
             'priority' => '0.8'
         ];
         $urls[] = [
-            'loc' => URL::to('/product/sgt-centrifugal-pump'),
-            'lastmod' => Carbon::now()->toAtomString(),
-            'changefreq' => 'monthly',
-            'priority' => '0.8'
-        ];
-        $urls[] = [
             'loc' => URL::to('/product/2gk-dynamic-centrifugal-pump'),
             'lastmod' => Carbon::now()->toAtomString(),
             'changefreq' => 'monthly',
