@@ -6,22 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best industrial electric motor, Pump, Blower, Flow Meter, Ro Membrane and Filtration Media in Bangladesh |
         Dynamic Industrial Product</title>
+    <link rel="cononical" href="https://dynamicproductbd.com">
     <meta name="description"
         content="Dynamic is a registered brand of Green Genesis Engineering Limited, committed to sourcing top-quality products from the global market while maintaining the highest standards." />
     <meta name="keywords"
         content="Dynamic is a registered brand of Green Genesis Engineering Limited, committed to sourcing top-quality products from the global market while maintaining the highest standards.">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
-
-
-
-
-
     <!-- Carousel Start -->
 
     <!-- About Start -->
@@ -839,18 +833,7 @@
         </div>
     </div>
     <!-- Testimonial End -->
-</body>
-
-</html>
-
-
-
-
-
-
-
-
-@include('master.footer')
+    @include('master.footer')
 
 </body>
 

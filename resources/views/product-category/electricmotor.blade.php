@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dyanmic Electric Motor</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/electric-motor">
     <meta name="description"
         content="The latest in electric motor technology. Explore our comprehensive range of products, expert insights, and innovative solutions for all your electric motor needs." />
     <meta name="keywords" content="ElectricMotor offers a wide selection of electric motors and accessories.">
@@ -56,12 +57,7 @@
             </div>
         </div>
     </section>
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-
-@include('master.footer')
+</html>

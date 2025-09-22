@@ -5,14 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Testimonial</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/testimonial">
     <meta name="description"
         content="Discover top testimonials for Bangladesh's finest industrial motors, pumps, blowers, flow meters, RO membranes, and filtration media.." />
     <meta name="keywords"
         content="Discover top testimonials for Bangladesh's finest industrial motors, pumps, blowers, flow meters, RO membranes, and filtration media.">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
@@ -115,11 +114,7 @@
     </div>
     <!-- Testimonial End -->
 
+    @include ('master.footer')
 </body>
 
-
-
-
-
-
-@include ('master.footer')
+</html>

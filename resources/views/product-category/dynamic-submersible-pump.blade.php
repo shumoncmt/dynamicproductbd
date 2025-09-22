@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible Pump</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/dynamic-submersible-pump">
     <meta name="description"
         content="Discover the power of Dynamic Submersible Pumps - efficient, reliable, and designed for deep water solutions. Boost your water management today" />
     <meta name="keywords"
@@ -503,8 +504,7 @@
         </div>
     </section>
 
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

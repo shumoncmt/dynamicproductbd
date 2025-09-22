@@ -8,7 +8,7 @@
                            <div class="footer-item">
                                <p class="mb-3">At Green Genesis Engineering Limited, our vision is to be the leading
                                    force in sustainable water management solutions in Bangladesh and beyond.</p>
-                               <a href="index.html" class="navbar-brand p-0">
+                               <a href={{Route('home')}} class="navbar-brand p-0">
                                    <!-- <h1 class="text-secondary display-6"><i class="fas fa-city text-primary me-3"></i></h1> -->
                                    <img src="{{ asset('img/logo/f-logo2.png')}}" alt="Logo">
                                </a>
@@ -42,10 +42,11 @@
                    <div class="col-md-4 col-lg-4 col-xl-4">
                        <div class="footer-item d-flex flex-column">
                            <h4 class="text-black mb-4">Contact Info</h4>
-                           <a href=""><i class="fa fa-map-marker-alt me-2"></i> House B/113, Mosque Road, New DOHS
+                           <a href={{Route('home')}}><i class="fa fa-map-marker-alt me-2"></i> House B/113, Mosque Road,
+                               New DOHS
                                Mohakhali, Dhaka-1206, Bangladesh</a>
-                           <a href=""><i class="fas fa-envelope me-2"></i> karim@greengenesisbd.com</a>
-                           <a href=""><i class="fas fa-phone me-2"></i> +880 1898777647</a>
+                           <a href={{Route('home')}}><i class="fas fa-envelope me-2"></i> karim@greengenesisbd.com</a>
+                           <a href={{Route('home')}}><i class="fas fa-phone me-2"></i> +880 1898777647</a>
                            <div class="footer-btn d-flex align-items-center">
                                <a class="btn btn-secondary btn-md-square me-2"
                                    href="https://www.facebook.com/dynamicproductbd"><i

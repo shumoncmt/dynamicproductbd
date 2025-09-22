@@ -5,19 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About</title>
+    <link rel="canonical" href="https://dynamicproductbd.com/about">
     <meta name="description"
         content="Discover top industrial electric motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh." />
     <meta name="keywords"
         content="Discover top industrial electric motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh.">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
-
-
     <!-- About Start -->
     <!-- <div class="container-fluid about py-5">
             <div class="container py-5">
@@ -124,11 +121,7 @@
             </div>
         </div>
     </section>
-
-
-
     </div>
-
     <!-- Features Start -->
     <div class="container-fluid feature bg-light py-5">
         <div class="container py-5">
@@ -174,7 +167,6 @@
         </div>
     </div>
     <!-- Features End -->
-
     <!-- Fact Counter -->
     <div class="container-fluid counter py-5">
         <div class="container py-5">
@@ -401,8 +393,8 @@
         </div>
     </div>
     </div>
-
     <!-- Team End -->
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

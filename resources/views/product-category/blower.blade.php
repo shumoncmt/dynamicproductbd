@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dyanamic Blower </title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/blower">
     <meta name="description"
         content="High-performance blowers designed for various applications. Explore our extensive range of reliable and efficient blower solutions for your needs." />
     <meta name="keywords"
@@ -14,8 +15,6 @@
 </head>
 
 <body>
-
-
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
@@ -69,12 +68,7 @@
             </div>
         </div>
     </section>
-
-
-
-
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

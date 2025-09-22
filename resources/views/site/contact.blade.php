@@ -5,14 +5,13 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contact</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/contact">
     <meta name="description"
         content="Want to communication with us? Here the Green Genesis Engineering  Limited Contact Information" />
     <meta name="keywords"
         content="Want to communication with us? Here the Green Genesis Engineering  Limited Contact Information">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
@@ -136,11 +135,7 @@
     </div>
     <!-- Contact End -->
 
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-@include('master.footer')
+</html>

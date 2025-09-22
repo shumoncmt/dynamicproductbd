@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Feature</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/feature">
     <meta name="description"
         content="Explore top industrial electric motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh.." />
     <meta name="keywords"
@@ -58,10 +59,7 @@
             </div>
         </div>
     </div>
-
-
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

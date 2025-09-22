@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Team</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/team">
     <meta name="description" content="Green Genesis Engineering Limited All team member work most successfully Work" />
     <meta name="keywords" content="Green Genesis Engineering Limited All team member work most successfully Work">
 
@@ -443,13 +444,7 @@
         </div>
     </div>
     <!-- Team End -->
-
-
-
-
+    @include('master.footer')
 </body>
 
-
-
-
-@include('master.footer')
+</html>

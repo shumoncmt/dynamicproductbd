@@ -5,20 +5,16 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Service</title>
+    <link rel="cononical" href="https://dynamicproductbd.com">
     <meta name="description"
         content="Discover top-quality industrial motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh." />
     <meta name="keywords"
         content="Discover top-quality industrial motors, pumps, blowers, flow meters, RO membranes, and filtration media in Bangladesh.">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
-
-
-
     <!-- Services Start -->
     <div class="container-fluid service bg-light py-5">
         <div class="container py-5">
@@ -272,11 +268,7 @@
         </div>
     </div>
     <!-- Services End -->
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-@include('master.footer')
+</html>

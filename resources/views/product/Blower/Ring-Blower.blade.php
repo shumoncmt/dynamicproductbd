@@ -1066,10 +1066,7 @@
             </div>
         </div>
     </section>
-
-
-
-
-
-
     @include('master.footer')
+</body>
+
+</html>

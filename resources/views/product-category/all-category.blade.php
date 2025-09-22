@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>All Category </title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories">
     <meta name="description"
         content="Comprehensive range of categories on our website, offering valuable insights and resources tailored to your interests and needs." />
     <meta name="keywords"
@@ -149,12 +150,7 @@
         </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-@include('master.footer')
+</html>

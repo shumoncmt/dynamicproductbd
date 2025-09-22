@@ -52,15 +52,16 @@
             <div class="d-flex flex-wrap">
                 <a href="https://maps.app.goo.gl/Emp5KStvoPH3nkcR9" class="text-muted me-4"><i
                         class="fas fa-map-marker-alt text-secondary me-2"></i>Find A Location</a>
-                <a href="#" class="text-muted me-4"><i class="fas fa-phone-alt text-secondary me-2"></i>+880
+                <a href={{Route('home')}} class="text-muted me-4"><i
+                        class="fas fa-phone-alt text-secondary me-2"></i>+880
                     1898777647</a>
-                <a href="#" class="text-muted me-0"><i
+                <a href={{Route('home')}} class="text-muted me-0"><i
                         class="fas fa-envelope text-secondary me-2"></i>karim@greengenesisbd.com</a>
             </div>
         </div>
         <div class="col-lg-6 text-center text-lg-end">
             <div class="d-flex align-items-center justify-content-end">
-                <a href="#" class="text-muted me-3"><i class="fas fa-clock text-secondary me-2"></i>
+                <a href={{Route('home')}} class="text-muted me-3"><i class="fas fa-clock text-secondary me-2"></i>
                     <?php
                             date_default_timezone_set("Asia/Dhaka");
                             echo  date("h:i:sa ");
@@ -147,7 +148,8 @@
             </div>
             <div class="d-flex align-items-center flex-nowrap pt-3  pt-lg-0 ms-lg-2">
                 {{-- <button class="btn btn-primary py-2 px-3" data-bs-toggle="modal" data-bs-target="#searchModal"><i class="fas fa-search"></i></button> --}}
-                <a href="#" class="btn btn-secondary py-2 px-4 ms-3 flex-wrap flex-sm-shrink-0">Get a Quate</a>
+                <a href={{Route('contact')}} class="btn btn-secondary py-2 px-4 ms-3 flex-wrap flex-sm-shrink-0">Get a
+                    Quate</a>
             </div>
         </div>
     </nav>

@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic- Diffuser</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/blower">
     <meta name="description" content="Our collection of high-quality diffusers designed to elevate your environment." />
     <meta name="keywords"
         content="Unleash the power of essential oils with our stylish diffusers. Perfect for any setting, they provide a calming ambiance and promote well-being in your space">
@@ -13,9 +14,6 @@
 </head>
 
 <body>
-
-
-
     <section class="diff-offer-wrapper">
         <div class="container">
             <div class="row ">
@@ -68,13 +66,7 @@
             </div>
         </div>
     </section>
-
-
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-@include('master.footer')
+</html>

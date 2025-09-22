@@ -3,21 +3,18 @@
 
 <head>
     <meta charset="UTF-8">
+    <link rel="cononical" href="https://dynamicproductbd.com/blog">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Blog</title>
     <meta name="description"
         content="Explore the best industrial electric motor, pump, blower, flow meter, RO membrane, and filtration media in Bangladesh for your needs." />
     <meta name="keywords"
         content="Explore the best industrial electric motor, pump, blower, flow meter, RO membrane, and filtration media in Bangladesh for your needs.">
-
     @include('master.header')
     @include('master.slider')
-
 </head>
 
 <body>
-
-
     <div class="container-fluid blog py-5">
         <div class="container py-5">
             <div class="text-center mx-auto pb-5 wow fadeInUp" data-wow-delay="0.2s" style="max-width: 800px;">
@@ -77,12 +74,7 @@
         </div>
     </div>
     <!-- Blog End -->
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-
-@include('master.footer')
+</html>

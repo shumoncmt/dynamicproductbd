@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dyanmic- Electromagnetic flow Meter</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/electromagenetic-flow-meter">
     <meta name="description"
         content="Precision and reliability with our electromagnetic flow meters. Ideal for various applications, ensuring accurate flow measurement in any environment" />
     <meta name="keywords"
@@ -49,9 +50,7 @@
     </section>
 
 
+    @include('master.footer')
 </body>
 
-
-
-
-@include('master.footer')
+</html>

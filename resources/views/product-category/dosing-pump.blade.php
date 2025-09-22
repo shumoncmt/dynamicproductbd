@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dyanmic Dosing Pump </title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/dosing-pump">
     <meta name="description"
         content="Explore dosing pumps for precise fluid control in industrial and commercial applications. Efficient, reliable, and easy to use." />
     <meta name="keywords"
@@ -46,9 +47,7 @@
             </div>
         </div>
     </section>
-
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>
