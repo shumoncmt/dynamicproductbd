@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible pump 2QGDA in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-submersible-pump-2qgda">
     <meta name="description"
         content="The Dynamic Submersible Pump 2QGDA offers reliable performance and durability. Find out how it can meet your pumping requirements effectively." />
     <meta name="keywords" content="The Dynamic Submersible Pump 2QGDA offers reliable performance and durability. ">
@@ -291,7 +292,7 @@
             </div>
     </section>
 
-
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ro Antiscalant in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/ro-antiscalant">
     <meta name="description"
         content="Ro Antiscalant solutions in Bangladesh. Ensure efficient water treatment and protect your systems from scaling with our high-quality products." />
     <meta name="keywords"
@@ -176,10 +177,7 @@
             </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

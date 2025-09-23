@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Reverse Osmosis Membrane in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-reverse-osmosis-membrane">
     <meta name="description"
         content="Discover high-quality electromagnetic flow meters in Bangladesh. Our advanced solutions ensure accurate flow measurement for various industrial applications." />
     <meta name="keywords"
@@ -361,10 +362,7 @@
                 </div>
             </div>
     </section>
-
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

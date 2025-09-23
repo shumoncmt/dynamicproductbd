@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Three Phase Motor in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/three-phase-motor">
     <meta name="description"
         content="Discover high-quality three-phase motors in Bangladesh. Explore our extensive range of products designed for efficiency and reliability in various applications." />
     <meta name="keywords"
@@ -251,9 +252,7 @@
             </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

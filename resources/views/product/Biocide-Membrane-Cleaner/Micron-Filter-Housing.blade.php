@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micron filter Housing in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/micron-filter-housing">
     <meta name="description"
         content="Discover high-quality micron filter housings in Bangladesh. Our durable solutions ensure optimal filtration for various applications." />
     <meta name="keywords"
@@ -163,9 +164,7 @@
                 </div>
             </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

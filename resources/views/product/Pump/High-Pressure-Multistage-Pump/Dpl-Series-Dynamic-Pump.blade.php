@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DPL Series Dynamic pump in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dpl-series-dynamic-pump">
     <meta name="description"
         content="DPL Series Dynamic Pump in Bangladesh, designed for efficiency and reliability. Explore our range of innovative pumping solutions today." />
     <meta name="keywords"
@@ -458,7 +459,7 @@
             </div>
     </section>
 
-
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Vacuum Roots Blower in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/vacuum-roots-blower">
     <meta name="description"
         content="High-quality vacuum roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords"
@@ -2199,9 +2200,7 @@
             </div>
         </div>
     </section>
-
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

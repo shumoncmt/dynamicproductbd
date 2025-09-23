@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Filtration Media</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/filtration-media">
     <meta name="description"
         content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords"
@@ -19,6 +20,7 @@
         <div class="container">
             <div class="row ">
                 <h2 style="margin-bottom:10px; margin-top:15px">Filtration Media</h2>
+
                 <nav style="--bs-breadcrumb-divider: url(&#34;data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='8' height='8'%3E%3Cpath d='M2.5 0L1 1.5 3.5 4 1 6.5 2.5 8l4-4-4-4z' fill='currentColor'/%3E%3C/svg%3E&#34;);"
                     aria-label="breadcrumb">
                     <ol class="breadcrumb">
@@ -126,13 +128,7 @@
             </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-
-
-
-
-@include('master.footer')
+</html>

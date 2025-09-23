@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Resin 001X7-1.3 in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-resin-001x7-1.3">
     <meta name="description"
         content="Discover Dynamic Resin 001X7-2.0 in Bangladesh, a versatile solution for various applications. Explore its features and benefits for your projects today." />
     <meta name="keywords"
@@ -287,7 +288,7 @@
             </div>
         </div>
     </section>
-
+    @include ('master.footer')
 </body>
 
-@include ('master.footer')
+</html>

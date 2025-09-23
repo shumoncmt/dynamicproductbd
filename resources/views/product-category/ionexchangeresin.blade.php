@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ion Exchange Resin</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/categories/water-treatment-chemicals-and-media">
     <meta name="description"
         content="Effective water treatment solutions with our premium chemicals and media. Ensure clean, safe water for your needs with our expert products and services." />
     <meta name="keywords"
@@ -69,8 +70,7 @@
             </div>
         </div>
     </section>
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

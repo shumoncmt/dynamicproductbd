@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Dosing Pump in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-dosing-pump">
     <meta name="description"
         content="Discover the benefits of Dynamic Anthracite in Bangladesh. Explore its applications, features, and how it enhances energy efficiency in various industries." />
     <meta name="keywords"
@@ -205,9 +206,7 @@
             </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

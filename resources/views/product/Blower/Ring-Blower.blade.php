@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ring Blower in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/ring-blower">
     <meta name="description"
         content="Discover high-quality ring blowers in Bangladesh. Our website offers a comprehensive range of products, specifications, and expert guidance for your needs." />
     <meta name="keywords"

@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic frp vessel in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/frp-vessel">
     <meta name="description"
         content="High-quality dynamic FRP vessel pumps in Bangladesh. Our innovative solutions ensure efficiency and durability for various industrial applications." />
     <meta name="keywords"
@@ -578,6 +579,7 @@
             </div>
     </section>
 
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

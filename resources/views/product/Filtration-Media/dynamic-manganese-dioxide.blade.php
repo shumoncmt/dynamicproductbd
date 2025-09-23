@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Manganese dioxide in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-manganese-dioxide">
     <meta name="description"
         content="Dynamic manganese dioxide in Bangladesh. Explore its applications, properties, and impact on various industries for sustainable solutions." />
     <meta name="keywords"
@@ -181,8 +182,7 @@
         </div>
     </section>
 
+    @include('master.footer')
 </body>
 
-
-
-@include('master.footer')
+</html>

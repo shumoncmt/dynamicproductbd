@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Micron filter Cartridge in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/micron-filter-cartridge">
     <meta name="description"
         content="Discover high-quality micron filter cartridges in Bangladesh. Enhance your filtration systems with our reliable and efficient solutions for clean water." />
     <meta name="keywords"
@@ -162,9 +163,7 @@
                 </div>
             </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

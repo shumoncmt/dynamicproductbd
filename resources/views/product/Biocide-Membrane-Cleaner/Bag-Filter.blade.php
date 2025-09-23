@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Bag filter in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/bag-filter">
     <meta name="description"
         content="Discover high-quality bag filters in Bangladesh, designed for efficient air and liquid filtration." />
     <meta name="keywords"
@@ -157,8 +158,7 @@
                 </div>
             </div>
     </section>
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

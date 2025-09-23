@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dechlorinator in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dechlorinator">
     <meta name="description"
         content="Discover effective dechlorination solutions in Bangladesh. Our website offers insights and products to ensure safe, clean water for your needs." />
     <meta name="keywords"
@@ -186,9 +187,7 @@
             </div>
         </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

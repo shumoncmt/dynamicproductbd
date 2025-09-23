@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible pump 4″STM6 in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-submersible-pump-4%E2%80%B3stm6">
     <meta name="description"
         content="Discover the efficiency of the 4 STM6 Dynamic Submersible Pump. Ideal for various applications, it delivers reliable performance and durability." />
     <meta name="keywords"
@@ -649,6 +650,7 @@
     </section>
 
 
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

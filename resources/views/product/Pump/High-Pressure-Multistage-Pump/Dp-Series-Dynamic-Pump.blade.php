@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>DP Series Dynamic pump in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dp-deries-dynamic-pump">
     <meta name="description"
         content="DP Series Dynamic Pump in Bangladesh, designed for efficiency and reliability. Explore our range of high-performance pumps for various applications." />
     <meta name="keywords"
@@ -15,7 +16,6 @@
 <body>
 
     <section class="diff-offer-wrapper">
-
         <div class="container">
             <div class="row ">
                 <h2 style="margin-bottom:10px; margin-top:15px">DP Series Dynamic Pump</h2>
@@ -2860,6 +2860,8 @@
         </div>
     </section>
 
+
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

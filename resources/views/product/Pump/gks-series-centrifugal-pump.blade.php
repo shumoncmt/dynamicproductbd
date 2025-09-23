@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>GKS Series Centrifugal pump in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/gks-series-centrifugal-pump">
     <meta name="description"
         content="GKS Series Centrifugal Pump in Bangladesh, designed for efficiency and reliability in various applications." />
     <meta name="keywords"
@@ -336,8 +337,7 @@
                 </div>
             </div>
     </section>
-
+    @include('master.footer')
 </body>
 
-
-@include('master.footer')
+</html>

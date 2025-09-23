@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible pump 4STM in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-submersible-pump-4stm">
     <meta name="description"
         content="Dynamic Submersible Pump 4STM offers unmatched performance and durability for your pumping needs. Learn more about its innovative design and benefits!" />
     <meta name="keywords"
@@ -341,8 +342,7 @@
                 </div>
             </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>
