@@ -11,7 +11,6 @@
     <meta name="keywords"
         content="Find top-notch pressure roots blowers in Bangladesh. We offer innovative solutions designed to improve efficiency and reliability in various industries.">
     @include('master.header')
-
 </head>
 
 <body>
@@ -46,8 +45,8 @@
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                     <p></p>
-                    <p>Dynamic Three lobes type Roots Blower was manufactured by CNC machine for precise rotors for
-                        high performance, and low noise and vibration.</p>
+                    <p>Dynamic Three lobes type Roots Blower was manufactured by CNC machine for precise rotors for high
+                        performance, and low noise and vibration.</p>
                     <h5>Description</h5>
                     <ul>
                         <li> Wide range for outlet air volume and pressure</li>
@@ -115,7 +114,6 @@
                                     </ul>
                                 </div>
                                 <div class="col-md-6 ">
-
                                 </div>
                             </div>
                         </div>
@@ -285,7 +283,6 @@
                                                 }
 
                                                 td {
-
                                                     background: url("https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf")
                                                 }
                                                 </style>
