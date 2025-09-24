@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible pump S150A in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-submersible-pump-s150a">
     <meta name="description"
         content="The S150A dynamic submersible pump offers unmatched performance and durability for your pumping needs." />
     <meta name="keywords"
@@ -518,8 +519,7 @@
                 </div>
             </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>

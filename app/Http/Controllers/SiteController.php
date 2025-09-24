@@ -245,12 +245,12 @@ class SiteController extends Controller
         function microdynereverseosmosismembrane(){
             return view('product.membrane.dynamic-reverse-osmosis-membrane');
         }
-        function membraniumreverseosmosismembrane(){
-            return view('product.membrane.membranium-reverse-osmosis-membrane');
-        }
-        function hydramembraneros(){
-            return view('product.membrane.hydranautics-ro-membranes');
-        }
+        // function membraniumreverseosmosismembrane(){
+        //     return view('product.membrane.membranium-reverse-osmosis-membrane');
+        // }
+        // function hydramembraneros(){
+        //     return view('product.membrane.hydranautics-ro-membranes');
+        // }
 
 
         //Dynamic Dosing Pump

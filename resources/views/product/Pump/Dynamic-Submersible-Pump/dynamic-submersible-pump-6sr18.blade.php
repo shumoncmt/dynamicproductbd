@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Dynamic Submersible pump 6SR18 in Bangladesh</title>
+    <link rel="cononical" href="https://dynamicproductbd.com/product/dynamic-submersible-pump-6sr18">
     <meta name="description"
         content="Dynamic Submersible Pump 6SR18 offers reliable performance and durability for your pumping needs. Learn more about its innovative design and applications now!" />
     <meta name="keywords"
@@ -607,8 +608,7 @@
                 </div>
             </div>
     </section>
-
-
+    @include('master.footer')
 </body>
 
-@include('master.footer')
+</html>
