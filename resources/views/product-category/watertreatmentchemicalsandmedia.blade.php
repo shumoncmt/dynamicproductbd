@@ -72,11 +72,8 @@
     </section>
 
 
+    @include('master.footer')
+
 </body>
 
-
-
-
-
-
-@include('master.footer')
+</html>

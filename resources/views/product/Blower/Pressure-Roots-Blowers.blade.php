@@ -122,7 +122,7 @@
                     </div>
                     <div class="tab-pane container fade" id="menu1">
                         <div class="review">
-                            <h3 class="text-center">GT TYPE PERFORMANCE TABLE( FOR PRESSURE)</h3>
+                            <h3 class="text-center">DB TYPE PERFORMANCE TABLE( FOR PRESSURE)</h3>
                             <div class="table-responsive">
                                 <style>
                                 td,
@@ -181,7 +181,7 @@
                                     <tbody>
                                         <tr>
                                             <td>
-                                                GT-040
+                                                DB-040
                                             </td>
                                             <td>1650
                                                 1800
@@ -297,7 +297,7 @@
                                         </tr>
                                         <tr>
                                             <td>
-                                                GT-050
+                                                DB-050
                                             </td>
                                             <td>850
                                                 1000
@@ -424,7 +424,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-065</td>
+                                            <td>DB-065</td>
                                             <td>850
                                                 1000
                                                 1150
@@ -550,7 +550,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-080</td>
+                                            <td>DB-080</td>
                                             <td>850
                                                 1000
                                                 1150
@@ -676,7 +676,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-100</td>
+                                            <td>DB-100</td>
                                             <td>850
                                                 1000
                                                 1150
@@ -802,7 +802,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-125S</td>
+                                            <td>DB-125S</td>
                                             <td>750
                                                 900
                                                 1050
@@ -928,7 +928,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-125</td>
+                                            <td>DB-125</td>
                                             <td>750
                                                 900
                                                 1050
@@ -1054,7 +1054,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-150</td>
+                                            <td>DB-150</td>
                                             <td>750
                                                 900
                                                 1050
@@ -1180,7 +1180,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-200</td>
+                                            <td>DB-200</td>
                                             <td>600
                                                 750
                                                 900
@@ -1306,7 +1306,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-200A</td>
+                                            <td>DB-200A</td>
                                             <td>600
                                                 750
                                                 900
@@ -1432,7 +1432,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-250</td>
+                                            <td>DB-250</td>
                                             <td>600
                                                 750
                                                 900
@@ -1558,7 +1558,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-250A</td>
+                                            <td>DB-250A</td>
                                             <td>600
                                                 750
                                                 900
@@ -1684,7 +1684,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-300</td>
+                                            <td>DB-300</td>
                                             <td>600
                                                 750
                                                 900
@@ -1810,7 +1810,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-300A</td>
+                                            <td>DB-300A</td>
                                             <td>600
                                                 700
                                                 800
@@ -1936,7 +1936,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-350</td>
+                                            <td>DB-350</td>
                                             <td>600
                                                 700
                                                 800
@@ -2062,7 +2062,7 @@
                                                         width="40px" height="40px"> </a></td>
                                         </tr>
                                         <tr>
-                                            <td>GT-400</td>
+                                            <td>DB-400</td>
                                             <td>600
                                                 650
                                                 700

@@ -10,9 +10,7 @@
         content="High-quality vacuum roots blowers in Bangladesh. Enhance your industrial efficiency with our reliable solutions tailored for various applications." />
     <meta name="keywords"
         content="Find top-notch vacuum roots blowers in Bangladesh. We provide efficient and durable solutions to meet the demands of your industrial operations">
-
     @include('master.header')
-
 </head>
 
 <body>
