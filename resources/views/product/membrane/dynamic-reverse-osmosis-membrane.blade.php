@@ -41,7 +41,7 @@
                     </div>
                 </div>
                 <div class="col-md-6 col-sm-8" style="margin-top: 20px; margin-left:15px">
-                    <h3>Dynamic Reverse Osmosis Membrane</h3>
+                    <h3> <a href={{Route('home')}}>Dynamic Reverse Osmosis Membrane</a></h3>
                     <span><img src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
