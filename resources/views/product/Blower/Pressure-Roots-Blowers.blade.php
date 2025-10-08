@@ -57,7 +57,7 @@
                     </ul>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
-                            href="https://greengenesisbd.com/wp-content/uploads/2022/08/2GK-Dynamic-Centrifugal-Pump.pdf">
+                            href="/img/product/blower/dynamic-roots-blower-db-40.pdf">
                             Brochure</a></button>
                 </div>
             </div>
@@ -286,7 +286,7 @@
                                                     background: url("https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf")
                                                 }
                                                 </style>
-                                                <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-40-Specification.pdf"
+                                                <a href="/img/product/blower/dynamic-roots-blower-db-40.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a>
@@ -415,7 +415,7 @@
                                                 4.67
                                                 5.16
                                                 5.64</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-50-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-50.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -541,7 +541,7 @@
                                                 7.08
                                                 7.81
                                                 8.55</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-065-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-65.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -667,7 +667,7 @@
                                                 11.58
                                                 12.78
                                                 13.98</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-080-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-80.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -793,7 +793,7 @@
                                                 16.22
                                                 17.90
                                                 19.57</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-100-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-100.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -919,7 +919,7 @@
                                                 22.36
                                                 24.85
                                                 27.33</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-125S-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-125S.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1045,7 +1045,7 @@
                                                 28.33
                                                 31.48
                                                 34.63</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-125-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-125.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1171,7 +1171,7 @@
                                                 36.53
                                                 40.59
                                                 44.65</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-150-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-150.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1297,7 +1297,7 @@
                                                 58.91
                                                 66.27
                                                 73.64</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-200-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-200.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1423,7 +1423,7 @@
                                                 90.00
                                                 101.2
                                                 112.5</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-200A-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-200A.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1549,7 +1549,7 @@
                                                 90.00
                                                 101.2
                                                 112.5</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-250-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-250.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1675,7 +1675,7 @@
                                                 128.7
                                                 144.7
                                                 160.8</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-250A-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-250A.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1801,7 +1801,7 @@
                                                 177.7
                                                 199.9
                                                 222.1</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-300-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-300.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -1927,7 +1927,7 @@
                                                 227.6
                                                 250.3
                                                 273.1</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-300A-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-300A.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -2053,7 +2053,7 @@
                                                 353.9
                                                 389.2
                                                 424.6</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-350-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-350.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
@@ -2179,7 +2179,7 @@
                                                 466.8
                                                 496.0
                                                 525.2</td>
-                                            <td> <a href="https://greengenesisbd.com/wp-content/uploads/2024/08/GT-400-Specification-min.pdf"
+                                            <td> <a href="/img/product/blower/dynamic-roots-blower-db-400.pdf"
                                                     download=""> <img decoding="async"
                                                         src="https://greengenesisbd.com/wp-content/uploads/2023/04/Download_Icon.png"
                                                         width="40px" height="40px"> </a></td>
