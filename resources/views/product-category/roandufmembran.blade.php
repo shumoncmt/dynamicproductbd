@@ -45,20 +45,6 @@
                         <h6><a href={{Route('microdynereverseosmosismembrane')}}>Read more</a></h6>
                     </div>
                 </div>
-                <!-- <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('membraniumreverseosmosismembrane')}} class="post-image view image_hover"><img src= "{{ asset('img/product/membrane/membranium-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('membraniumreverseosmosismembrane')}}>
-                <h4>MEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</h4></a>
-              <p style="text-align:justify">TMEMBRANIUM REVERSE OSMOSIS (RO) MEMBRANE</p>
-              <h6><a href={{Route('membraniumreverseosmosismembrane')}}>Read more</a></h6>
-            </div>
-          </div>
-          <div class="col-lg-4 col-md-4 col-sm-6 service-info">
-            <div class="item"><a href={{Route('hydramembraneros')}} class="post-image view image_hover">		<img src= "{{ asset('img/product/membrane/hydranautic-ro-membrane.png')}}" alt="" class="img-responsive zoom_img_effect"></a><a href={{Route('hydramembraneros')}}>
-                <h4>HYDRANAUTICS RO MEMBRANES</h4></a>
-              <p style="text-align:justify">HYDRANAUTICS RO MEMBRANES</p>
-              <h6><a href={{Route('hydramembraneros')}}>Read more</a></h6>
-            </div>
-          </div> -->
             </div>
         </div>
     </section>

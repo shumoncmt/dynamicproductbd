@@ -106,7 +106,7 @@ class SiteController extends Controller
             return view ('product-category.frpvessel');
         }
         function roandufmembrane(){
-            return view ('product-category.roandufmembrane');
+            return view ('product-category.roandufmembran');
         }
         function watertreatmentaccessories(){
             return view ('product-category.watertreatmentaccessories');

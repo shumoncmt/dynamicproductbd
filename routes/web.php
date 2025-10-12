@@ -120,7 +120,6 @@ Route::get('/product/gks-series-centrifugal-pump', [SiteController::class, 'gkss
 
 //Water treatment chemicals and Media 
 
-
 Route::get('/product/dynamic-activated-carbon', [SiteController::class, 'DynamicActivatedCarbon'])->name('DynamicActivatedCarbon');
 Route::get('/product/dynamic-resin-001x7-1.3', [SiteController::class, 'DynamicResin3'])->name('DynamicResin3');
 Route::get('/product/dynamic-resin-001X7-2.0', [SiteController::class, 'DynamicResin2'])->name('DynamicResin2');
@@ -135,8 +134,6 @@ Route::get('/product/ro-antiscalant', [SiteController::class, 'RoAntiscalant'])-
 
 //Membrane Product start
 Route::get('/product/dynamic-reverse-osmosis-membrane', [SiteController::class, 'microdynereverseosmosismembrane'])->name('microdynereverseosmosismembrane');
-// Route::get('/product/membranium-reverse-osmosis-membrane', [SiteController::class, 'membraniumreverseosmosismembrane'])->name('membraniumreverseosmosismembrane');
-// Route::get('/product/hydranautics-ro-membranes', [SiteController::class, 'hydramembraneros'])->name('hydramembraneros');
 
 //Dosing Pump
 
