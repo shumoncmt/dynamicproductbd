@@ -90,13 +90,13 @@
                                 <div class="col-md-6">
                                     <h6>Description</h6>
                                     <li>Standard high-efficiency motor Eff1/IE2/IE3.</li>
-                                    <li>Efficiency up to 79%</li>
-                                    <li>Capacity: up to 12 m3/hr.</li>
-                                    <li>Head: up to 203 meters.</li>
-                                    <li>Temp: up to 30 °C.</li>
-                                    <li>Delivery Size: DN 25</li>
-                                    <li>Stage: 2 to 6.</li>
-                                    <li>Design pressure: 20 bar.</li>
+                                    <li>Capacity: 1 to 30 m3/hr.</li>
+                                    <li>Head: 20 to 230 meters.</li>
+                                    <li>Temp: 20°C to 120 °C.</li>
+                                    <li>0.75KW to 18.5KW</li>
+                                    <li>Delivery Size: DN 25 to DN 100</li>
+                                    <li>Stage: 2 to 26.</li>
+                                    <li>Design pressure: 25 bar.</li>
                                     <p> </p>
                                     <h6>Material of construction</h6>
                                     <li>Casing: SS (304/316L) cast iron.</li>
