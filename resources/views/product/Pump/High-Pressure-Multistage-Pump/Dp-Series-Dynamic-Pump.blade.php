@@ -47,11 +47,16 @@
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span><span><img
                             src="{{ asset('img/icon/icon.png')}}" alt=""></span>
                     <p></p>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
-                    <br>
+                    <h5>Applications</h5>
+                    <ul>
+                        <li>Domestic water supply</li>
+                        <li>Utility</li>
+                        <li>Cooling water transport</li>
+                        <li>Fire fighting</li>
+                        <li>Food, chemical, and process</li>
+                        <li>industry</li>
+                        <li>Irrigation</li>
+                    </ul>
                     <br>
                     <button type="button" class="btn btn-outline-success" style="margin:4px;"> <a href="#">Inquire Now
                         </a> </button> <button type="button" class="btn btn-outline-success bi bi-download"> <a
@@ -83,6 +88,20 @@
                         <div class="description">
                             <div class="row">
                                 <div class="col-md-6">
+                                    <h6>Description</h6>
+                                    <li>Standard high-efficiency motor Eff1/IE2/IE3.</li>
+                                    <li>Efficiency up to 79%</li>
+                                    <li>Capacity: up to 12 m3/hr.</li>
+                                    <li>Head: up to 203 meters.</li>
+                                    <li>Temp: up to 30 °C.</li>
+                                    <li>Delivery Size: DN 25</li>
+                                    <li>Stage: 2 to 6.</li>
+                                    <li>Design pressure: 20 bar.</li>
+                                    <p> </p>
+                                    <h6>Material of construction</h6>
+                                    <li>Casing: SS (304/316L) cast iron.</li>
+                                    <li>Impeller: SS(304/316L)</li>
+                                    <p> </p>
                                 </div>
                                 <div class="col-md-6 "> </div>
                             </div>
