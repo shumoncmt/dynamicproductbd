@@ -188,7 +188,7 @@
                         <div class="team-border-style-3"></div>
                         <div class="team-border-style-4"></div>
                         <div class="team-img">
-                            <img src="https://greengenesisbd.com/wp-content/uploads/elementor/thumbs/Md.-Osman-Gani-1-qx6f6yhxtgpxv4p91xgbdnzttcgkfrx9wia3ry00j8.jpg"
+                            <img src="https://greengenesisbd.com/wp-content/uploads/elementor/thumbs/Fazlul-Karim-rgzzpfy02lp7qaqgih3p9intlrl6yb5x8mkenhv0dw.jpg"
                                 class="img-fluid w-100" alt="">
                             <div class="team-icon d-flex justify-content-around">
                                 <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i
@@ -202,34 +202,8 @@
                             </div>
                         </div>
                         <div class="text-center border border-top-0 bg-white py-3">
-                            <h6 class="mb-0">Md. Osman Gani</h6>
-                            <p class="mb-0">DGM - Accounts & Finance</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-4 col-sm-6 wow fadeInUp" data-wow-delay="0.8s">
-                    <div class="team-item border border-primary p-1">
-                        <div class="team-border-style-1"></div>
-                        <div class="team-border-style-2"></div>
-                        <div class="team-border-style-3"></div>
-                        <div class="team-border-style-4"></div>
-                        <div class="team-img">
-                            <img src="https://greengenesisbd.com/wp-content/uploads/elementor/thumbs/Nazmul_Ac-qaukdofkk2s7ixdjgbnbgkx9qin9xexsqq3qvp7m44.jpg"
-                                class="img-fluid w-100" alt="">
-                            <div class="team-icon d-flex justify-content-around">
-                                <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i
-                                        class="fab fa-facebook-f"></i></a>
-                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
-                                        class="fab fa-twitter"></i></a>
-                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
-                                        class="fab fa-linkedin-in"></i></a>
-                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
-                                        class="fab fa-instagram"></i></a>
-                            </div>
-                        </div>
-                        <div class="text-center border border-top-0 bg-white py-3">
-                            <h6 class="mb-0">Nazmul Hossen</h6>
-                            <p class="mb-0">AGM - Accounts & Finance</p>
+                            <h6 class="mb-0">Fazlul Karim</h6>
+                            <p class="mb-0">Sr. Manager - Accounts & Finance</p>
                         </div>
                     </div>
                 </div>
@@ -437,6 +411,32 @@
                         <div class="text-center border border-top-0 bg-white py-3">
                             <h6 class="mb-0">K.M. Rajib Uddin</h6>
                             <p class="mb-0">Sr. Engineer (Tender & Project)</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 wow col-md-4 col-sm-6 fadeInUp" data-wow-delay="0.8s">
+                    <div class="team-item border border-primary p-1">
+                        <div class="team-border-style-1"></div>
+                        <div class="team-border-style-2"></div>
+                        <div class="team-border-style-3"></div>
+                        <div class="team-border-style-4"></div>
+                        <div class="team-img">
+                            <img src="https://greengenesisbd.com/wp-content/uploads/elementor/thumbs/Rukaiya-Sultana-Bushra-rh0016xdi1s8uto1wjxtfjx8x5od63t4us4wm0fulw.png"
+                                class="img-fluid w-100" alt="">
+                            <div class="team-icon d-flex justify-content-around">
+                                <a class="btn btn-secondary btn-md-square text-white mx-3" href=""><i
+                                        class="fab fa-facebook-f"></i></a>
+                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
+                                        class="fab fa-twitter"></i></a>
+                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
+                                        class="fab fa-linkedin-in"></i></a>
+                                <a class="btn btn-secondary btn-md-square text-white me-3" href=""><i
+                                        class="fab fa-instagram"></i></a>
+                            </div>
+                        </div>
+                        <div class="text-center border border-top-0 bg-white py-3">
+                            <h6 class="mb-0">Rukaiya Sultana Bushra</h6>
+                            <p class="mb-0">Asst. Manager -Design & Sales Support</p>
                         </div>
                     </div>
                 </div>
