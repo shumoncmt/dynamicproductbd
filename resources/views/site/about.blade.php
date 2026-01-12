@@ -84,19 +84,17 @@
                             <h2 style="color:#FFFFFF; font-size:32px">About Us </h2>
                         </div>
                         <h3 class="display-5 fw-bold"> </h3>
-                        <p class="lead" style="text-align:justify; font-size:17px">Founded in 2007 Green Genesis
-                            Engineering Ltd. is a professional engineering company doing green business and offering
-                            water purification and related services with a team of professional and skilled workers &
-                            management offering a large portfolio of water treatment/management services designed to
-                            help plant personnel and end-user organizations to get the most out of their water treatment
-                            system. We offer dependable, high-quality products in Bangladesh that are rather difficult
-                            to find if purchased directly from the manufacturers. We are, therefore, dedicated to
-                            bringing the greatest valued solutions and providing the supreme customer experience in
-                            meeting water treatment and environmental solutions needs through our pioneering technology
-                            solutions, products, and services. Green Genesis Engineering Ltd. is now acclaimed to be the
-                            best one-stop service and solution provider in water, wastewater, desalination,
-                            demineralization, effluent, and sewage treatment in Bangladesh. We will continue to make
-                            optimistic contributions to industry, society, and the environment.</p>
+                        <p class="lead" style="text-align:justify; font-size:17px">Dynamic is a registered brand of
+                            Green Genesis Engineering Limited, committed to sourcing top-quality products from the
+                            global market while maintaining the highest standards. Although we specialize in the
+                            environmental engineering sector, we proudly serve a broad spectrum of industries by
+                            offering customized, value-driven solutions. Our Dynamic product line is engineered for
+                            adaptability and compatibility across various industrial applications. Through a
+                            comprehensive 360-degree approach, we partner with trusted suppliers worldwide to deliver
+                            integrated, all-in-one solutions that ensure seamless performance and enhanced operational
+                            efficiency. More than just a supplier, we position ourselves as a dependable partner—driven
+                            by integrity, passion, and a steadfast commitment to delivering quality and flexibility
+                            every step of the way</p>
 
                     </div>
                 </div>
