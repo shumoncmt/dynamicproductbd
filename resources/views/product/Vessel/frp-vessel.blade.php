@@ -700,8 +700,6 @@
                         </div>
                     </div>
                 </div>
-
-
                 <div class="row ">
                     <h2 style="margin-bottom:10px; margin-top:25px">Related Product</h2>
                     <div class="row">
