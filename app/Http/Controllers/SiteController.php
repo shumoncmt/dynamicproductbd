@@ -158,6 +158,12 @@ class SiteController extends Controller
         function romembrane(){
             return view('product.Biocide-Membrane-Cleaner.Ro-membrane');
         }
+        function screwpress(){
+        return view('product.biocide-membrane-cleaner.screwpress');
+        }
+        function mechanicalbarscreen(){
+        return view('product.biocide-membrane-cleaner.mechanicalbarscreen');
+        }
         function pressurerootsblowers(){
             return view('product.Blower.Pressure-Roots-Blowers');
         }

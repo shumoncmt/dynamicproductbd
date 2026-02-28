@@ -94,6 +94,8 @@ Route::get('/product/micron-filter-cartridge', [SiteController::class, 'MicronFi
 Route::get('/product/micron-filter-housing', [SiteController::class, 'MicronFilterHousing'])->name('MicronFilterHousing');
 Route::get('/product/ro-membrane-housing', [SiteController::class, 'RoMembraneHousing'])->name('RoMembraneHousing');
 Route::get('/product/ro-membrane', [SiteController::class, 'romembrane'])->name('romembrane');
+Route::get('/product/mechanical-bar-screen/', [SiteController::class,'mechanicalbarscreen'])->name('mechanicalbarscreen');
+Route::get('/product/screw-press/', [SiteController::class,'screwpress'])->name('screwpress');
 
 
 

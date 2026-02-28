@@ -67,6 +67,30 @@
                         <h6><a href={{Route('MicronFilterHousing')}}>Read more</a></h6>
                     </div>
                 </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                    <div class="item"><a href={{Route('screwpress')}} class="post-image view image_hover"> <img
+                                src="{{ asset('img/product/filter/screw-press.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a href={{Route('screwpress')}}>
+                            <h4>Screw Press</h4>
+                        </a>
+                        <p style="text-align:justify">A screw press can be used in place of a belt press, or centrifuge.
+                            That accomplishes dewatering by continuous gravitational drainage.
+                        </p>
+                        <h6><a href={{Route('screwpress')}}>Read more</a></h6>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-4 col-sm-6 service-info">
+                    <div class="item"><a href={{Route('mechanicalbarscreen')}} class="post-image view image_hover"> <img
+                                src="{{ asset('img/product/filter/mechanical-ber-screen.jpg')}}" alt=""
+                                class="img-responsive zoom_img_effect"></a><a href={{Route('mechanicalbarscreen')}}>
+                            <h4>Mechanical Bar Screen</h4>
+                        </a>
+                        <p style="text-align:justify">Mechanical Bar Screens are automatic equipment that is installed
+                            directly in the channels of wastewater treatment plants.
+                        </p>
+                        <h6><a href={{Route('mechanicalbarscreen')}}>Read more</a></h6>
+                    </div>
+                </div>
             </div>
         </div>
     </section>
