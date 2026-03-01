@@ -136,7 +136,18 @@ class SitemapController extends Controller
             'changefreq' => 'monthly',
             'priority' => '0.8'
         ];
-
+        $urls[] = [
+            'loc' => URL::to('/product/mechanical-bar-screen'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
+        $urls[] = [
+            'loc' => URL::to('/product/screw-press'),
+            'lastmod' => Carbon::now()->toAtomString(),
+            'changefreq' => 'monthly',
+            'priority' => '0.8'
+        ];
         $urls[] = [
             'loc' => URL::to('/product/ro-membrane-housing'),
             'lastmod' => Carbon::now()->toAtomString(),
